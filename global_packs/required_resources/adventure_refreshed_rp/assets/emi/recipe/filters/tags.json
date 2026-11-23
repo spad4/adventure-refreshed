@@ -1,0 +1,10 @@
+{
+    "filters": [
+        {
+            "category": "minecraft:tag_recipes/block"
+        },
+        {
+            "category": "minecraft:tag_recipes/item"
+        }
+    ]
+}

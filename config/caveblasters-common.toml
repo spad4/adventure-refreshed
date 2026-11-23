@@ -1,0 +1,6 @@
+#How often cave bridge veins are attempted per placement roll.
+#Higher = rarer. 2 is frequent (~1 in 2), 5 is default (~1 in 5), 12 is very rare (~1 in 12).
+#Only affects newly generated chunks.
+# Default: 5
+# Range: 2 ~ 12
+vein_spawn_rarity = 5

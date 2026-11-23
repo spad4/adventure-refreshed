@@ -1,0 +1,42 @@
+{
+  "config_version": "2.0.17",
+  "config_datetime": "2026-11-19_09-18-42",
+  "global": {
+    "disable_all_placed_features": false
+  },
+  "placed_features": [
+    {
+      "name": "dungeonsdelight:patch_wild_rotbulb",
+      "is_disabled": true
+    },
+    {
+      "name": "dungeonsdelight:rotten_monster_room",
+      "is_disabled": true
+    },
+    {
+      "name": "dungeonsdelight:rotten_monster_room_deep",
+      "is_disabled": true
+    },
+    {
+      "name": "nomansland:fancy_oak_apple_005",
+      "is_disabled": true
+    },
+    {
+      "name": "nomansland:fancy_oak_apple_01",
+      "is_disabled": true
+    },
+    {
+      "name": "nomansland:oak_apple_005",
+      "is_disabled": true
+    },
+    {
+      "name": "nomansland:oak_apple_01",
+      "is_disabled": true
+    },
+    {
+      "name": "spawn:patch_zombified_flower",
+      "is_disabled": true
+    }
+  ],
+  "biomes": []
+}

@@ -1,0 +1,266 @@
+{
+  "frames": [
+    {
+      "texture": "tooltipoverhaul:textures/overlay/amethyst_frame.png",
+      "items": [
+        "minecraft:enchanted_golden_apple",
+        "minecraft:mace",
+        "creaturefeature:heavy_axe",
+        "minecraft:trident",
+        "launchers_and_arrows:rainshot_bow",
+        "galosphere:saltbound_tablet",
+        "amyshield:amethyst_shield"
+      ],
+      "gradientType": "custom",
+      "borderType": "static",
+      "gradientColors": [
+        "#C551C3",
+        "#C551C3",
+        "#C551C3"
+      ],
+      "specialEffect": "metal_shining"
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/amethyst_frame.png",
+      "items": [
+        "minecraft:dragon_egg"
+      ],
+      "gradientType": "custom",
+      "borderType": "static",
+      "gradientColors": [
+        "#C551C3",
+        "#C551C3",
+        "#C551C3"
+      ],
+      "specialEffect": "nebula"
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/amethyst_frame.png",
+      "items": [
+        "spawn:music_disc_dally"
+      ],
+      "gradientType": "custom",
+      "borderType": "static",
+      "gradientColors": [
+        "#C551C3",
+        "#C551C3",
+        "#C551C3"
+      ],
+      "specialEffect": "fluorite"
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/diamond_frame.png",
+      "items": [
+        "minecraft:end_crystal",
+        "minecraft:beacon",
+        "minecraft:conduit",
+        "minecraft:golden_apple",
+        "galosphere:preserved_flesh",
+        "bountifulfares:golden_apple_block",
+        "nomansland:ancient_bronze_mask",
+        "nomansland:ancient_bronze_chisel",
+        "nomansland:ancestral_oath_sword",
+        "nomansland:ritual_pick",
+        "nomansland:ancient_bronze_bell",
+        "spawn:moonstone"
+      ],
+      "tags": [
+        "c:music_discs",
+        "handcrafted:trophies"
+      ],
+      "gradientType": "custom",
+      "borderType": "auto_gradient"
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/diamond_frame.png",
+      "tags": [
+        "artifacts:artifacts"
+      ],
+      "gradientType": "custom",
+      "borderType": "auto_gradient",
+      "gradientColors": [
+        "#C551C3",
+        "#C551C3",
+        "#C551C3"
+      ]
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/meal_frame.png",
+      "items": [
+        "brewinandchewin:fiery_fondue_pot"
+      ],
+      "tags": [
+        "farmersdelight:feasts"
+      ],
+      "gradientType": "custom",
+      "borderType": "auto_gradient"
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/amber_frame.png",
+      "items": [
+        "minecraft:elytra",
+        "minecraft:experience_bottle",
+        "minecraft:skeleton_skull",
+        "minecraft:wither_skeleton_skull",
+        "minecraft:player_head",
+        "minecraft:creeper_head",
+        "minecraft:zombie_head",
+        "minecraft:dragon_head",
+        "minecraft:piglin_head",
+        "minecraft:nether_star",
+        "minecraft:enchanted_book",
+        "minecraft:dragon_breath",
+        "minecraft:totem_of_undying",
+        "minecraft:heart_of_the_sea",
+        "minecraft:creeper_banner_pattern",
+        "minecraft:skull_banner_pattern",
+        "launchers_and_arrows:multishot_bow",
+        "spawn:sunstone"
+      ],
+      "gradientType": "custom",
+      "borderType": "auto_gradient"
+    },
+    {
+      "texture": "tooltipoverhaul:textures/overlay/silver_frame.png",
+      "items": [
+        "minecraft:netherite_upgrade_smithing_template",
+        "minecraft:netherite_ingot",
+        "minecraft:netherite_scrap",
+        "minecraft:netherite_sword",
+        "minecraft:netherite_shovel",
+        "minecraft:netherite_pickaxe",
+        "minecraft:netherite_axe",
+        "minecraft:netherite_hoe",
+        "minecraft:netherite_helmet",
+        "minecraft:netherite_chestplate",
+        "minecraft:netherite_leggings",
+        "minecraft:netherite_boots",
+        "farmersdelight:netherite_knife",
+        "beansbackpacks:netherite_backpack",
+        "beansbackpacks:netherite_lunch_box",
+        "horseshoes:netherite_horseshoes"
+      ],
+      "gradientType": "custom",
+      "borderType": "gradient",
+      "gradientColors": [
+        "#A9A9A9",
+        "#999999",
+        "#8F8F8F"
+      ]
+    },
+    {
+      "items": [
+        "bountifulfares:sun_hat"
+      ],
+      "showSecondPanel": true
+    },
+    {
+      "items": [
+        "celestisynth:frostbound",
+        "celestisynth:breezebreaker",
+        "celestisynth:aquaflora",
+        "celestisynth:rainfall_serenity"
+      ],
+      "id": "celestisynth",
+      "disableScrolling": true,
+      "priority": 2,
+      "specialEffect": "snowfall",
+      "gradientType": "custom",
+      "showRating": false
+    },
+    {
+      "items": [
+        "terramity:unholy_lance",
+        "terramity:chthonic_cursemark",
+        "companions:shadow_bell",
+        "born_in_chaos_v1:supreme_measure",
+        "born_in_chaos_v1:stop_hammer",
+        "born_in_chaos_v1:orbofthe_summoner"
+      ],
+      "effectSettings": {
+        "opal": {
+          "colors": [
+            "#FF0000",
+            "#FF0000",
+            "#000000"
+          ],
+          "speed": 10.0
+        }
+      },
+      "specialEffect": "opal",
+      "gradientType": "custom",
+      "gradientColors": [
+        "#D20000",
+        "#710000",
+        "#2C0000"
+      ],
+      "dividerLineColor": "match_inner_frame_color"
+    },
+    {
+      "items": [
+        "terramity:reverium_sword",
+        "terramity:reverium_shovel",
+        "terramity:reverium_pickaxe",
+        "terramity:reverium_paladin_leggings",
+        "terramity:reverium_paladin_chestplate",
+        "terramity:reverium_paladin_helmet",
+        "terramity:reverium_paladin_boots",
+        "terramity:reverium",
+        "terramity:reverium_hoe",
+        "terramity:reverium_axe",
+        "terramity:reverium_block"
+      ],
+      "specialEffect": "fluorite",
+      "effectSettings": {
+        "sunbeams": {
+          "colors": [
+            "#FFFFFF",
+            "#FFD08A",
+            "#FFFDF0"
+          ]
+        },
+        "comets": {
+          "direction": 119.9791,
+          "turbulence": 3.0,
+          "trailLength": 1.5543989,
+          "glow": 1.5862709,
+          "thickness": 1.3184303,
+          "size": 2.0137713,
+          "density": 2.1869526
+        },
+        "astral": {
+          "colors": [
+            "#FFFFFF",
+            "#000000",
+            "#000000"
+          ],
+          "density": 1.3370322,
+          "sharpness": 0.25
+        },
+        "fluorite": {
+          "colors": [
+            "#000000",
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "sharpness": 1.2199455,
+          "distortion": 1.1400627,
+          "fieldScale": 0.5,
+          "density": 1.0714321,
+          "speed": 10.0,
+          "intensity": 0.85,
+          "variation": 48.0
+        }
+      }
+    },
+    {
+      "items": [
+        "companions:croissant_egg_block",
+        "companions:relic_gold",
+        "companions:soul_gem"
+      ],
+      "name": "Stars",
+      "specialEffect": "stars"
+    }
+  ]
+}

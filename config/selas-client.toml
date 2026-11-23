@@ -1,0 +1,129 @@
+#Client-side lightmap changes for darker nights and caves.
+[natural_darkness]
+
+	#General switches.
+	[natural_darkness.general]
+		#Turns the Selas lightmap changes on or off.
+		enabled = true
+		#Updates the lightmap every rendered frame while Selas is active. This makes day/night transitions smoother.
+		smooth_lightmap_updates = true
+		#Stops Selas from darkening the view while Night Vision is active. Also covers useful underwater Conduit Power vision.
+		respect_night_vision = true
+		#Stops Selas from darkening lightning flashes.
+		respect_lightning_flashes = true
+		#When true, the brightness slider lifts Selas target brightness (no double-gamma on already-baked lightmap pixels). 
+		#When false, Selas keeps its absolute luminance targets so the slider cannot wash out nights and caves. 
+		#A small residual slider effect can still appear in already-bright areas because vanilla applies gamma before Selas runs.
+		respect_gamma = false
+		#When true, Selas skips lightmap changes while an Iris/Oculus shader pack is in use. 
+		#Shader packs usually replace vanilla lightmap lighting, so leaving Selas on only wastes work and confuses tuning.
+		disable_with_shaders = true
+
+	#Where the module is active.
+	[natural_darkness.dimensions]
+		#Applies the effect in the Overworld.
+		affect_overworld = true
+		#Applies the effect in custom dimensions that have skylight.
+		affect_custom_sky_dimensions = true
+		#Applies the effect in dimensions without skylight, including the Nether, the End, and modded skyless dimensions.
+		affect_skyless_dimensions = true
+		#Base ambient brightness for modded dimensions with no sun/moon that are neither the Nether nor the End.
+		# Default: 0.1
+		# Range: 0.0 ~ 1.0
+		skyless_dimension_light_factor = 0.1
+
+	#Per-dimension lighting for the Nether and End. These replace the generic skyless profile for those dimensions so they are no longer pitch black.
+	[natural_darkness.dimension_lighting]
+		#Base ambient brightness added across the Nether. Higher values make the Nether more playable but less moody.
+		# Default: 0.14
+		# Range: 0.0 ~ 1.0
+		nether_light_factor = 0.14
+		#Warm (reddish/orange) tint applied in darker Nether areas, evoking lava and fire glow.
+		# Default: 0.06
+		# Range: 0.0 ~ 0.5
+		nether_warm_tint = 0.06
+		#Base ambient brightness added across the End. Higher values make the void more visible.
+		# Default: 0.09
+		# Range: 0.0 ~ 1.0
+		end_light_factor = 0.09
+		#Cool (starlight blue) tint applied in darker End areas.
+		# Default: 0.05
+		# Range: 0.0 ~ 0.5
+		end_cool_tint = 0.05
+
+	#Day/night transition timing. Values are Minecraft day ticks. One full Minecraft day is 24000 ticks.
+	[natural_darkness.twilight]
+		#Selas starts fading from day brightness into night brightness.
+		# Default: 11800
+		# Range: 0 ~ 23999
+		dusk_transition_start_tick = 11800
+		#Full Selas night begins.
+		# Default: 14000
+		# Range: 0 ~ 23999
+		full_night_start_tick = 14000
+		#Full Selas night starts fading into dawn.
+		# Default: 21200
+		# Range: 0 ~ 23999
+		full_night_end_tick = 21200
+		#Dawn fade ends after midnight wraps back to day tick 0.
+		# Default: 400
+		# Range: 0 ~ 23999
+		dawn_transition_end_tick = 400
+
+	#Moon and weather values.
+	[natural_darkness.natural_light]
+		#Sky brightness at midnight during a new moon. Lower values make moonless nights darker. Keep above cave darkness for open sky.
+		# Default: 0.09
+		# Range: 0.0 ~ 1.0
+		moonless_night_sky_factor = 0.09
+		#Sky brightness at midnight during a full moon. Higher values make full-moon nights brighter.
+		# Default: 0.32
+		# Range: 0.0 ~ 1.0
+		full_moon_sky_factor = 0.32
+		#Controls the progression between new moon and full moon. 1 is linear; lower values brighten intermediate phases.
+		# Default: 0.65
+		# Range: 0.5 ~ 3.0
+		moon_phase_curve = 0.65
+		#Natural sky darkening when rain is at full strength.
+		# Default: 0.16
+		# Range: 0.0 ~ 1.0
+		rain_darkening = 0.16
+		#Natural sky darkening when thunder is at full strength. Rain and thunder penalties do not stack.
+		# Default: 0.32
+		# Range: 0.0 ~ 1.0
+		thunder_darkening = 0.32
+
+	#Brightness curve and minimum brightness.
+	[natural_darkness.darkness]
+		#Lowest general brightness Selas allows in mixed light. 0 allows true black.
+		# Default: 0.01
+		# Range: 0.0 ~ 0.25
+		minimum_luminance_floor = 0.01
+		#Near-black anti-crush floor when both block light and sky light are low (deep caves / sealed spaces). Should stay below open-sky starlight.
+		# Default: 0.005
+		# Range: 0.0 ~ 0.25
+		cave_luminance_floor = 0.005
+		#Extra luminance floor mixed in for open sky at night (starlight / airglow). 
+		#Uses sky light presence so caves stay darker than moonless surface nights. 0 disables the extra floor.
+		# Default: 0.012
+		# Range: 0.0 ~ 0.25
+		starlight_luminance_floor = 0.012
+		#Controls how quickly low light falls into darkness. Higher values make low light darker.
+		# Default: 1.65
+		# Range: 0.25 ~ 4.0
+		darkness_curve = 1.65
+		#Controls how much block light resists darkening. Higher values keep torches and lava brighter.
+		# Default: 1.0
+		# Range: 0.0 ~ 1.5
+		block_light_preservation = 1.0
+
+	#Color changes in low light.
+	[natural_darkness.color]
+		#Removes color in darker areas. 0 disables this.
+		# Default: 0.3
+		# Range: 0.0 ~ 1.0
+		night_desaturation = 0.3
+		#Adds a small blue/cold tint in low natural light. 0 disables this.
+		# Default: 0.05
+		# Range: 0.0 ~ 0.5
+		night_cool_tint = 0.05

@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kubejs:item/botanists_bundle_empty"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "fullness": 0.1
+      },
+      "model": "kubejs:item/botanists_bundle_filled"
+    }
+  ]
+}
