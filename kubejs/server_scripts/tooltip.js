@@ -23,6 +23,19 @@ const PLACEABLE_OVERRIDES = [
     "quark:glass_item_frame",
     "quark:glowing_glass_item_frame",
     "minecraft:gunpowder",
+    "spawn:captured_octopus",
+    "spawn:angler_fish_bucket",
+    "spawn:bluefish_bucket",
+    "spawn:herring_bucket",
+    "spawn:pilot_fish_bucket",
+    "spawn:baby_sunfish_bucket",
+    "spawn:blenny_bucket",
+    "spawn:tuna_egg_bucket",
+    "spawn:seahorse_bucket",
+    "spawn:coastal_crab_bucket",
+    "spawn:baby_sea_cow_bucket",
+    "spawn:baby_flukeshroom_bucket",
+    "spawn:baby_seal_bucket",
 ];
 
 const tooltips = [];
@@ -103,7 +116,7 @@ tooltips.push({
     expanded: "wax",
 });
 tooltips.push({
-    condition: (item) => item.hasTag("another_furniture:flower_box_placeables"),
+    condition: (item) => item.hasTag("supplementaries:flower_box_plantable"),
     icon: "\uE016",
     expanded: "place in pot",
 });

@@ -212,6 +212,9 @@ ServerEvents.tags("item", event => {
         "farmersdelight:stove",
         "dungeonsdelight:dungeon_stove",
     ]);
+    event.add("supplementaries:flower_box_plantable", [
+        "minersdelight:gossypium"
+    ])
     event.remove("zipline:attachment", "#minecraft:hoes");
 });
 

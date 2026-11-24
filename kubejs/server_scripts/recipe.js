@@ -1072,7 +1072,8 @@ ServerEvents.recipes(event => {
         "#advref:trail_mix_seeds",
         "nomansland:pine_nuts",
         "nomansland:walnuts"
-    ])
+    ]);
+    editShapelessByInput("minersdelight:gossypium", "minecraft:string", 1, ["minersdelight:gossypium"])
 
     event.remove({ input: "minecraft:waxed_copper_block", output: "minecraft:copper_ingot" });
 })
