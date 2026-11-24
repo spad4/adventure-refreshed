@@ -78,7 +78,7 @@ global.assistedBuildingCollectProperties = (item, collectFrom, player, blockHitR
     let face = blockHitResult.direction;
     if (fromState) {
         COPYABLE_PROPERTIES.forEach((property) => {
-            if (fromState.hasProperty(property) && toState.hasProperty(property)) {
+            if (fromState?.hasProperty(property) && toState?.hasProperty(property)) {
                 let value = fromState.getValue(property);
                 toState = toState.setValue(property, fromState.getValue(property));
             }
@@ -89,7 +89,7 @@ global.assistedBuildingCollectProperties = (item, collectFrom, player, blockHitR
     // unless a bottom slab was extended from
     if (
         !fromState?.hasProperty(BlockProperties.SLAB_TYPE) &&
-        toState.hasProperty(BlockProperties.SLAB_TYPE) &&
+        toState?.hasProperty(BlockProperties.SLAB_TYPE) &&
         face == Direction.UP
     ) {
         toState = toState.setValue(BlockProperties.SLAB_TYPE, $SlabType.TOP);
