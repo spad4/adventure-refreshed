@@ -121,7 +121,6 @@ ItemEvents.modifyTooltips((event) => {
             tooltip.removeText("Dyeable");
         });
 
-        // if (DENYLIST.some(piece => item.id.search(piece) != -1)) return;
         if ($ShapeMap["isShape(net.minecraft.world.item.Item)"](item)) return;
 
         const icons = [];
