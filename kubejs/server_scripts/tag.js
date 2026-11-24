@@ -212,9 +212,6 @@ ServerEvents.tags("item", event => {
         "farmersdelight:stove",
         "dungeonsdelight:dungeon_stove",
     ]);
-    event.add("advref:extra_placeable"), [
-        "minecraft:writable_book"
-    ]
     event.remove("zipline:attachment", "#minecraft:hoes");
 });
 
