@@ -28,3 +28,6 @@ screenshots/
 seamless.txt
 usercache.json
 usernamecache.json
+config/fabric/indigo-renderer.properties
+config/zfastnoise.mixin.properties
+config/sound_physics_remastered/sound_rates.properties

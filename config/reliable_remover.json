@@ -824,6 +824,10 @@
     "spawn:winter_dragon_reeds",
     "spawn:fall_dragon_reeds",
     "spawn:summer_dragon_reeds",
-    "spawn:spring_dragon_reeds"
+    "spawn:spring_dragon_reeds",
+    "everycomp:q/nomansland/hollow_pine_log",
+    "everycomp:q/nomansland/hollow_walnut_log",
+    "everycomp:q/spawn/hollow_rotten_log",
+    "everycomp:q/bountifulfares/hollow_hoary_log"
   ]
 }
