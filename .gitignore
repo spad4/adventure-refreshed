@@ -7,7 +7,7 @@
 cache/
 command_history.txt
 crash-reports/
-data/
+/data/
 debug/
 defaultconfigs/
 downloads/

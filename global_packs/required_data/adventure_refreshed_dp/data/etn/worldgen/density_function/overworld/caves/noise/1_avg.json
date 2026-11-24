@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:half_negative",
+    "argument": {
+      "type": "minecraft:add",
+      "argument1": 0.1,
+      "argument2": {
+        "type": "minecraft:mul",
+        "argument1": -4.8,
+        "argument2": {
+          "type": "minecraft:add",
+          "argument1": "etn:overworld/caves/noise/1_x",
+          "argument2": "etn:overworld/caves/noise/1_z"
+        }
+      }
+    }
+  }
+}

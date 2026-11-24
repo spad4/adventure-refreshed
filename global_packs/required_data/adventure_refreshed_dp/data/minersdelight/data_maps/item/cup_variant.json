@@ -1,0 +1,19 @@
+{
+  "values": {
+    "bountifulfares:leek_stew": {
+      "cup_variant": "kubejs:leek_stew_cup"
+    },
+    "bountifulfares:apple_stew": {
+      "cup_variant": "kubejs:apple_stew_cup"
+    },
+    "bountifulfares:coconut_stew": {
+      "cup_variant": "kubejs:coconut_stew_cup"
+    },
+    "bountifulfares:fish_stew": {
+      "cup_variant": "kubejs:fish_stew_cup"
+    },
+    "bountifulfares:bountiful_stew": {
+      "cup_variant": "kubejs:bountiful_stew_cup"
+    }
+  }
+}

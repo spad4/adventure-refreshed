@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:interpolated",
+  "argument": {
+    "type": "minecraft:range_choice",
+    "input": "etn:overworld/caves/1_river",
+    "min_inclusive": 0,
+    "max_exclusive": 0.1,
+    "when_in_range": "etn:overworld/caves/5_1",
+    "when_out_of_range": {
+      "type": "minecraft:range_choice",
+      "input": "minecraft:overworld/ridges_folded",
+      "min_inclusive": -1,
+      "max_exclusive": 0,
+      "when_in_range": 1,
+      "when_out_of_range": "etn:overworld/caves/5_1"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "condition": {
+        "type": "nomansland:item_conditional",
+        "items": "#dungeonsdelight:monster_foods"
+    },
+    "weight": 1,
+    "text": "To bathe/ a meal in/ undeath...// perhaps you see something/ I/ cannot."
+}

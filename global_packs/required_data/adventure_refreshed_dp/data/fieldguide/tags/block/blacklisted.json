@@ -1,0 +1,65 @@
+{
+    "replace": false,
+    "values": [
+        {
+            "id": "bountifulfares:flowering_orange_leaves",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_orange",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:flowering_lemon_leaves",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_lemon",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:flowering_plum_leaves",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_plum",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:flowering_apple_leaves",
+            "required": false
+        },
+        {
+            "id": "bountifulpears:flowering_pear_leaves",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_apple",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:flowering_golden_apple_leaves",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_golden_apple",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_hoary_apple",
+            "required": false
+        },
+        {
+            "id": "bountifulpears:hanging_pear",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_walnuts",
+            "required": false
+        },
+        {
+            "id": "bountifulfares:hanging_withered_golden_apple",
+            "required": false
+        }
+    ]
+}

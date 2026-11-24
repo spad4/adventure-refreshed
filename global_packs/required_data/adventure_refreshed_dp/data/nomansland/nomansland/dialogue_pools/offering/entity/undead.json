@@ -1,0 +1,8 @@
+{
+  "condition": {
+    "type": "nomansland:entity_conditional",
+    "entity": "#minecraft:undead"
+  },
+  "weight": 1,
+  "text": "What a terrible fate...///\nTo see the descendants of/ my/ fellows, be afflicted\n by a/ curse/ so opposed to/ everything/ we believed in.\nBut our world/// was/ lost, long before the/ dead/ were/ stripped/ of/ their/ dreams."
+}

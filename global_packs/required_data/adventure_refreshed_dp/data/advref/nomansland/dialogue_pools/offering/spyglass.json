@@ -1,0 +1,8 @@
+{
+    "condition": {
+        "type": "nomansland:item_conditional",
+        "items": "minecraft:spyglass"
+    },
+    "weight": 1,
+    "text": "An/ ingenious/ tool with which to/ gaze/ upon/ the/ wonders of the/ world!// You are/ wise/ to carry it with/ you."
+}

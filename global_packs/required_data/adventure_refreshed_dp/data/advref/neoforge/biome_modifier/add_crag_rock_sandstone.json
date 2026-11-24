@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "minecraft:desert",
+  "features": "advref:crag_rock_sandstone",
+  "step": "raw_generation"
+}

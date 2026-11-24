@@ -1,0 +1,1403 @@
+{
+  "smooth_stone": [
+    "desire:smooth_stone_stairs"
+  ],
+  "sign_plates:plate_0": [
+    "sign_plates:plate_1",
+    "sign_plates:plate_2",
+    "sign_plates:plate_3",
+    "sign_plates:plate_4",
+    "sign_plates:plate_5",
+    "sign_plates:plate_6",
+    "sign_plates:plate_7",
+    "sign_plates:plate_8",
+    "sign_plates:plate_9"
+  ],
+  "sign_plates:plate_a": [
+    "sign_plates:plate_b",
+    "sign_plates:plate_c",
+    "sign_plates:plate_d",
+    "sign_plates:plate_e",
+    "sign_plates:plate_f",
+    "sign_plates:plate_g",
+    "sign_plates:plate_h",
+    "sign_plates:plate_i",
+    "sign_plates:plate_j",
+    "sign_plates:plate_k",
+    "sign_plates:plate_l",
+    "sign_plates:plate_m",
+    "sign_plates:plate_n",
+    "sign_plates:plate_o",
+    "sign_plates:plate_p",
+    "sign_plates:plate_q",
+    "sign_plates:plate_r",
+    "sign_plates:plate_s",
+    "sign_plates:plate_t",
+    "sign_plates:plate_u",
+    "sign_plates:plate_v",
+    "sign_plates:plate_w",
+    "sign_plates:plate_x",
+    "sign_plates:plate_y",
+    "sign_plates:plate_z"
+  ],
+  "sign_plates:plate_bonus": [
+    "sign_plates:plate_correct",
+    "sign_plates:plate_incorrect",
+    "sign_plates:plate_fire",
+    "sign_plates:plate_water",
+    "sign_plates:plate_electricity",
+    "sign_plates:plate_danger",
+    "sign_plates:plate_heart",
+    "sign_plates:plate_light",
+    "sign_plates:plate_money",
+    "sign_plates:plate_plus",
+    "sign_plates:plate_minus",
+    "sign_plates:plate_arrowdown",
+    "sign_plates:plate_arrowleft",
+    "sign_plates:plate_arrowright",
+    "sign_plates:plate_arrowup",
+    "sign_plates:plate_facehappy",
+    "sign_plates:plate_facecat",
+    "sign_plates:plate_facemad",
+    "sign_plates:plate_facesad",
+    "sign_plates:plate_faceneutral",
+    "sign_plates:plate_stop"
+  ],
+  "minecraft:amethyst_block": [
+    "galosphere:amethyst_slab",
+    "galosphere:amethyst_stairs"
+  ],
+  "minecraft:calcite": [
+    "handcrafted:calcite_pillar_trim",
+    "handcrafted:calcite_corner_trim",
+    "desire:calcite_slab",
+    "desire:calcite_stairs",
+    "desire:calcite_wall"
+  ],
+  "minecraft:dripstone_block": [
+    "handcrafted:dripstone_pillar_trim",
+    "handcrafted:dripstone_corner_trim",
+    "desire:dripstone_slab",
+    "desire:dripstone_stairs",
+    "desire:dripstone_wall"
+  ],
+  "minecraft:smooth_basalt": [
+    "desire:smooth_basalt_slab",
+    "desire:smooth_basalt_stairs",
+    "desire:smooth_basalt_wall"
+  ],
+  "minecraft:quartz_bricks": [
+    "desire:quartz_brick_slab",
+    "desire:quartz_brick_stairs",
+    "desire:quartz_brick_wall"
+  ],
+  "ribbits:mossy_oak_planks": [
+    "ribbits:mossy_oak_planks_slab",
+    "ribbits:mossy_oak_planks_stairs"
+  ],
+  "minecraft:stone": [
+    "desire:stone_wall"
+  ],
+  "minecraft:smooth_sandstone": [
+    "desire:smooth_sandstone_wall"
+  ],
+  "minecraft:smooth_red_sandstone": [
+    "desire:smooth_red_sandstone_wall"
+  ],
+  "minecraft:smooth_quartz": [
+    "desire:smooth_quartz_wall"
+  ],
+  "minecraft:prismarine_bricks": [
+    "desire:prismarine_brick_wall"
+  ],
+  "minecraft:dark_prismarine": [
+    "desire:dark_prismarine_wall"
+  ],
+  "minecraft:book": [
+    "handcrafted:stackable_book",
+    "dustydecorations:open_book"
+  ],
+  "oak_planks": [
+    "handcrafted:oak_pillar_trim",
+    "handcrafted:oak_corner_trim"
+  ],
+  "oak_fence": [
+    "minecraft:oak_fence_gate",
+    "bountifulfares:oak_pickets"
+  ],
+  "oak_door": [
+    "dramaticdoors:short_oak_door",
+    "dramaticdoors:tall_oak_door",
+    "minecraft:oak_trapdoor",
+    "another_furniture:oak_shutter"
+  ],
+  "oak_button": [
+    "minecraft:oak_pressure_plate"
+  ],
+  "another_furniture:oak_chair": [
+    "another_furniture:oak_bench",
+    "handcrafted:oak_chair",
+    "handcrafted:oak_bench",
+    "handcrafted:oak_dining_bench"
+  ],
+  "handcrafted:oak_desk": [
+    "handcrafted:oak_side_table",
+    "handcrafted:oak_nightstand"
+  ],
+  "oak_sign": [
+    "minecraft:oak_hanging_sign",
+    "supplementaries:way_sign_oak"
+  ],
+
+  "birch_planks": [
+    "handcrafted:birch_pillar_trim",
+    "handcrafted:birch_corner_trim"
+  ],
+  "birch_fence": [
+    "minecraft:birch_fence_gate",
+    "bountifulfares:birch_pickets"
+  ],
+  "birch_door": [
+    "dramaticdoors:short_birch_door",
+    "dramaticdoors:tall_birch_door",
+    "minecraft:birch_trapdoor",
+    "another_furniture:birch_shutter"
+  ],
+  "birch_button": [
+    "minecraft:birch_pressure_plate"
+  ],
+  "another_furniture:birch_chair": [
+    "another_furniture:birch_bench",
+    "handcrafted:birch_chair",
+    "handcrafted:birch_bench",
+    "handcrafted:birch_dining_bench"
+  ],
+  "handcrafted:birch_desk": [
+    "handcrafted:birch_side_table",
+    "handcrafted:birch_nightstand"
+  ],
+  "birch_sign": [
+    "minecraft:birch_hanging_sign",
+    "supplementaries:way_sign_birch"
+  ],
+
+  "spruce_planks": [
+    "handcrafted:spruce_pillar_trim",
+    "handcrafted:spruce_corner_trim"
+  ],
+  "spruce_fence": [
+    "minecraft:spruce_fence_gate",
+    "bountifulfares:spruce_pickets"
+  ],
+  "spruce_door": [
+    "dramaticdoors:short_spruce_door",
+    "dramaticdoors:tall_spruce_door",
+    "minecraft:spruce_trapdoor",
+    "another_furniture:spruce_shutter"
+  ],
+  "spruce_button": [
+    "minecraft:spruce_pressure_plate"
+  ],
+  "another_furniture:spruce_chair": [
+    "another_furniture:spruce_bench",
+    "handcrafted:spruce_chair",
+    "handcrafted:spruce_bench",
+    "handcrafted:spruce_dining_bench"
+  ],
+  "handcrafted:spruce_desk": [
+    "handcrafted:spruce_side_table",
+    "handcrafted:spruce_nightstand"
+  ],
+  "spruce_sign": [
+    "minecraft:spruce_hanging_sign",
+    "supplementaries:way_sign_spruce"
+  ],
+
+  "jungle_planks": [
+    "handcrafted:jungle_pillar_trim",
+    "handcrafted:jungle_corner_trim"
+  ],
+  "jungle_fence": [
+    "minecraft:jungle_fence_gate",
+    "bountifulfares:jungle_pickets"
+  ],
+  "jungle_door": [
+    "dramaticdoors:short_jungle_door",
+    "dramaticdoors:tall_jungle_door",
+    "minecraft:jungle_trapdoor",
+    "another_furniture:jungle_shutter"
+  ],
+  "jungle_button": [
+    "minecraft:jungle_pressure_plate"
+  ],
+  "another_furniture:jungle_chair": [
+    "another_furniture:jungle_bench",
+    "handcrafted:jungle_chair",
+    "handcrafted:jungle_bench",
+    "handcrafted:jungle_dining_bench"
+  ],
+  "handcrafted:jungle_desk": [
+    "handcrafted:jungle_side_table",
+    "handcrafted:jungle_nightstand"
+  ],
+  "jungle_sign": [
+    "minecraft:jungle_hanging_sign",
+    "supplementaries:way_sign_jungle"
+  ],
+
+  "dark_oak_planks": [
+    "handcrafted:dark_oak_pillar_trim",
+    "handcrafted:dark_oak_corner_trim"
+  ],
+  "dark_oak_fence": [
+    "minecraft:dark_oak_fence_gate",
+    "bountifulfares:dark_oak_pickets"
+  ],
+  "dark_oak_door": [
+    "dramaticdoors:short_dark_oak_door",
+    "dramaticdoors:tall_dark_oak_door",
+    "minecraft:dark_oak_trapdoor",
+    "another_furniture:dark_oak_shutter"
+  ],
+  "dark_oak_button": [
+    "minecraft:dark_oak_pressure_plate"
+  ],
+  "another_furniture:dark_oak_chair": [
+    "another_furniture:dark_oak_bench",
+    "handcrafted:dark_oak_chair",
+    "handcrafted:dark_oak_bench",
+    "handcrafted:dark_oak_dining_bench"
+  ],
+  "handcrafted:dark_oak_desk": [
+    "handcrafted:dark_oak_side_table",
+    "handcrafted:dark_oak_nightstand"
+  ],
+  "dark_oak_sign": [
+    "minecraft:dark_oak_hanging_sign",
+    "supplementaries:way_sign_dark_oak"
+  ],
+
+  "acacia_planks": [
+    "handcrafted:acacia_pillar_trim",
+    "handcrafted:acacia_corner_trim"
+  ],
+  "acacia_fence": [
+    "minecraft:acacia_fence_gate",
+    "bountifulfares:acacia_pickets"
+  ],
+  "acacia_door": [
+    "dramaticdoors:short_acacia_door",
+    "dramaticdoors:tall_acacia_door",
+    "minecraft:acacia_trapdoor",
+    "another_furniture:acacia_shutter"
+  ],
+  "acacia_button": [
+    "minecraft:acacia_pressure_plate"
+  ],
+  "another_furniture:acacia_chair": [
+    "another_furniture:acacia_bench",
+    "handcrafted:acacia_chair",
+    "handcrafted:acacia_bench",
+    "handcrafted:acacia_dining_bench"
+  ],
+  "handcrafted:acacia_desk": [
+    "handcrafted:acacia_side_table",
+    "handcrafted:acacia_nightstand"
+  ],
+  "acacia_sign": [
+    "minecraft:acacia_hanging_sign",
+    "supplementaries:way_sign_acacia"
+  ],
+
+  "pale_oak_planks": [
+    "everycomp:hc/minecraft/pale_oak_pillar_trim",
+    "everycomp:hc/minecraft/pale_oak_corner_trim"
+  ],
+  "pale_oak_fence": [
+    "minecraft:pale_oak_fence_gate",
+    "everycomp:bf/minecraft/pale_oak_pickets"
+  ],
+  "pale_oak_door": [
+    "everycomp:dd/minecraft/short_pale_oak_door",
+    "everycomp:dd/minecraft/tall_pale_oak_door",
+    "minecraft:pale_oak_trapdoor",
+    "everycomp:af/minecraft/pale_oak_shutter"
+  ],
+  "pale_oak_button": [
+    "minecraft:pale_oak_pressure_plate"
+  ],
+  "everycomp:af/minecraft/pale_oak_chair": [
+    "everycomp:af/minecraft/pale_oak_bench",
+    "everycomp:hc/minecraft/pale_oak_chair",
+    "everycomp:hc/minecraft/pale_oak_bench",
+    "everycomp:hc/minecraft/pale_oak_dining_bench"
+  ],
+  "everycomp:hc/minecraft/pale_oak_desk": [
+    "everycomp:hc/minecraft/pale_oak_side_table",
+    "everycomp:hc/minecraft/pale_oak_nightstand"
+  ],
+  "pale_oak_sign": [
+    "minecraft:pale_oak_hanging_sign",
+    "supplementaries:way_sign_pale_oak"
+  ],
+
+  "warped_planks": [
+    "handcrafted:warped_pillar_trim",
+    "handcrafted:warped_corner_trim"
+  ],
+  "warped_fence": [
+    "minecraft:warped_fence_gate",
+    "bountifulfares:warped_pickets"
+  ],
+  "warped_door": [
+    "dramaticdoors:short_warped_door",
+    "dramaticdoors:tall_warped_door",
+    "minecraft:warped_trapdoor",
+    "another_furniture:warped_shutter"
+  ],
+  "warped_button": [
+    "minecraft:warped_pressure_plate"
+  ],
+  "another_furniture:warped_chair": [
+    "another_furniture:warped_bench",
+    "handcrafted:warped_chair",
+    "handcrafted:warped_bench",
+    "handcrafted:warped_dining_bench"
+  ],
+  "handcrafted:warped_desk": [
+    "handcrafted:warped_side_table",
+    "handcrafted:warped_nightstand"
+  ],
+  "warped_sign": [
+    "minecraft:warped_hanging_sign",
+    "supplementaries:way_sign_warped"
+  ],
+
+  "crimson_planks": [
+    "handcrafted:crimson_pillar_trim",
+    "handcrafted:crimson_corner_trim"
+  ],
+  "crimson_fence": [
+    "minecraft:crimson_fence_gate",
+    "bountifulfares:crimson_pickets"
+  ],
+  "crimson_door": [
+    "dramaticdoors:short_crimson_door",
+    "dramaticdoors:tall_crimson_door",
+    "minecraft:crimson_trapdoor",
+    "another_furniture:crimson_shutter"
+  ],
+  "crimson_button": [
+    "minecraft:crimson_pressure_plate"
+  ],
+  "another_furniture:crimson_chair": [
+    "another_furniture:crimson_bench",
+    "handcrafted:crimson_chair",
+    "handcrafted:crimson_bench",
+    "handcrafted:crimson_dining_bench"
+  ],
+  "handcrafted:crimson_desk": [
+    "handcrafted:crimson_side_table",
+    "handcrafted:crimson_nightstand"
+  ],
+  "crimson_sign": [
+    "minecraft:crimson_sign",
+    "supplementaries:crimson"
+  ],
+
+  "cherry_planks": [
+    "handcrafted:cherry_pillar_trim",
+    "handcrafted:cherry_corner_trim"
+  ],
+  "cherry_fence": [
+    "minecraft:cherry_fence_gate",
+    "bountifulfares:cherry_pickets"
+  ],
+  "cherry_door": [
+    "dramaticdoors:short_cherry_door",
+    "dramaticdoors:tall_cherry_door",
+    "minecraft:cherry_trapdoor",
+    "another_furniture:cherry_shutter"
+  ],
+  "cherry_button": [
+    "minecraft:cherry_pressure_plate"
+  ],
+  "another_furniture:cherry_chair": [
+    "another_furniture:cherry_bench",
+    "handcrafted:cherry_chair",
+    "handcrafted:cherry_bench",
+    "handcrafted:cherry_dining_bench"
+  ],
+  "handcrafted:cherry_desk": [
+    "handcrafted:cherry_side_table",
+    "handcrafted:cherry_nightstand"
+  ],
+  "cherry_sign": [
+    "minecraft:cherry_hanging_sign",
+    "supplementaries:way_sign_cherry"
+  ],
+
+  "bamboo_planks": [
+    "handcrafted:bamboo_pillar_trim",
+    "handcrafted:bamboo_corner_trim"
+  ],
+  "bamboo_fence": [
+    "minecraft:bamboo_fence_gate",
+    "bountifulfares:bamboo_pickets"
+  ],
+  "bamboo_door": [
+    "dramaticdoors:short_bamboo_door",
+    "dramaticdoors:tall_bamboo_door",
+    "minecraft:bamboo_trapdoor",
+    "another_furniture:bamboo_shutter"
+  ],
+  "bamboo_button": [
+    "minecraft:bamboo_pressure_plate"
+  ],
+  "another_furniture:bamboo_chair": [
+    "another_furniture:bamboo_bench",
+    "handcrafted:bamboo_chair",
+    "handcrafted:bamboo_bench",
+    "handcrafted:bamboo_dining_bench"
+  ],
+  "handcrafted:bamboo_desk": [
+    "handcrafted:bamboo_side_table",
+    "handcrafted:bamboo_nightstand"
+  ],
+  "bamboo_sign": [
+    "minecraft:bamboo_hanging_sign",
+    "supplementaries:way_sign_bamboo"
+  ],
+  
+  "mangrove_planks": [
+    "handcrafted:mangrove_pillar_trim",
+    "handcrafted:mangrove_corner_trim"
+  ],
+  "mangrove_fence": [
+    "minecraft:mangrove_fence_gate",
+    "bountifulfares:mangrove_pickets"
+  ],
+  "mangrove_door": [
+    "dramaticdoors:short_mangrove_door",
+    "dramaticdoors:tall_mangrove_door",
+    "minecraft:mangrove_trapdoor",
+    "another_furniture:mangrove_shutter"
+  ],
+  "mangrove_button": [
+    "minecraft:mangrove_pressure_plate"
+  ],
+  "another_furniture:mangrove_chair": [
+    "another_furniture:mangrove_bench",
+    "handcrafted:mangrove_chair",
+    "handcrafted:mangrove_bench",
+    "handcrafted:mangrove_dining_bench"
+  ],
+  "handcrafted:mangrove_desk": [
+    "handcrafted:mangrove_side_table",
+    "handcrafted:mangrove_nightstand"
+  ],
+  "mangrove_sign": [
+    "minecraft:mangrove_hanging_sign",
+    "supplementaries:way_sign_mangrove"
+  ],
+
+  "stone_button": [
+    "minecraft:stone_pressure_plate"
+  ],
+  "polished_blackstone_button": [
+    "minecraft:polished_blackstone_pressure_plate"
+  ],
+  "iron_door": [
+    "dramaticdoors:short_iron_door",
+    "dramaticdoors:tall_iron_door",
+    "minecraft:iron_trapdoor"
+  ],
+  "copper_door": [
+    "dramaticdoors:short_copper_door",
+    "dramaticdoors:tall_copper_door",
+    "minecraft:copper_trapdoor"
+  ],
+  "waxed_copper_door": [
+    "dramaticdoors:short_waxed_copper_door",
+    "dramaticdoors:tall_waxed_copper_door",
+    "minecraft:waxed_copper_trapdoor"
+  ],
+  "weathered_copper_door": [
+    "dramaticdoors:short_weathered_copper_door",
+    "dramaticdoors:tall_weathered_copper_door",
+    "minecraft:weathered_copper_trapdoor"
+  ],
+  "waxed_weathered_copper_door": [
+    "dramaticdoors:short_waxed_weathered_copper_door",
+    "dramaticdoors:tall_waxed_weathered_copper_door",
+    "minecraft:waxed_weathered_copper_trapdoor"
+  ],
+  "exposed_copper_door": [
+    "dramaticdoors:short_exposed_copper_door",
+    "dramaticdoors:tall_exposed_copper_door",
+    "minecraft:exposed_copper_trapdoor"
+  ],
+  "waxed_exposed_copper_door": [
+    "dramaticdoors:short_waxed_exposed_copper_door",
+    "dramaticdoors:tall_waxed_exposed_copper_door",
+    "minecraft:waxed_exposed_copper_trapdoor"
+  ],
+  "oxidized_copper_door": [
+    "dramaticdoors:short_oxidized_copper_door",
+    "dramaticdoors:tall_oxidized_copper_door",
+    "minecraft:oxidized_copper_trapdoor"
+  ],
+  "waxed_oxidized_copper_door": [
+    "dramaticdoors:short_waxed_oxidized_copper_door",
+    "dramaticdoors:tall_waxed_oxidized_copper_door",
+    "minecraft:waxed_oxidized_copper_trapdoor"
+  ],
+  "chest": [
+    "minecraft:barrel"
+  ],
+  "handcrafted:kitchen_hood_pipe": [
+    "handcrafted:kitchen_hood"
+  ],
+  "handcrafted:terracotta_thin_pot": [
+    "handcrafted:terracotta_medium_pot",
+    "handcrafted:terracotta_wide_pot",
+    "handcrafted:terracotta_thick_pot"
+  ],
+  "handcrafted:white_glazed_thin_pot": [
+    "handcrafted:white_glazed_medium_pot",
+    "handcrafted:white_glazed_wide_pot",
+    "handcrafted:white_glazed_thick_pot"
+  ],
+  "handcrafted:blue_glazed_thin_pot": [
+    "handcrafted:blue_glazed_medium_pot",
+    "handcrafted:blue_glazed_wide_pot",
+    "handcrafted:blue_glazed_thick_pot"
+  ],
+  "handcrafted:golden_thin_pot": [
+    "handcrafted:golden_medium_pot",
+    "handcrafted:golden_wide_pot",
+    "handcrafted:golden_thick_pot"
+  ],
+  "polished_andesite": [
+    "handcrafted:andesite_pillar_trim",
+    "handcrafted:andesite_corner_trim",
+    "desire:polished_andesite_wall"
+  ],
+  "polished_blackstone": [
+    "handcrafted:blackstone_pillar_trim",
+    "handcrafted:blackstone_corner_trim"
+  ],
+  "bricks": [
+    "handcrafted:bricks_pillar_trim",
+    "handcrafted:bricks_corner_trim"
+  ],
+  "polished_deepslate": [
+    "handcrafted:deepslate_pillar_trim",
+    "handcrafted:deepslate_corner_trim"
+  ],
+  "polished_diorite": [
+    "handcrafted:diorite_pillar_trim",
+    "handcrafted:diorite_corner_trim",
+    "desire:polished_diorite_wall"
+  ],
+  "polished_granite": [
+    "handcrafted:granite_pillar_trim",
+    "handcrafted:granite_corner_trim",
+    "desire:polished_granite_wall"
+  ],
+  "quartz_block": [
+    "handcrafted:quartz_pillar_trim",
+    "handcrafted:quartz_corner_trim"
+  ],
+  "stone_bricks": [
+    "handcrafted:stone_pillar_trim",
+    "handcrafted:stone_corner_trim"
+  ],
+  "minecraft:cut_sandstone": [
+    "handcrafted:sandstone_pillar_trim",
+    "handcrafted:sandstone_corner_trim",
+    "desire:cut_sandstone_stairs"
+  ],
+  "cut_red_sandstone": [
+    "handcrafted:red_sandstone_pillar_trim",
+    "handcrafted:red_sandstone_corner_trim",
+    "desire:cut_red_sandstone_stairs"
+  ],
+  "cut_copper": [
+    "minecraft:copper_grate",
+    "minecraft:chiseled_copper"
+  ],
+  "waxed_cut_copper": [
+    "minecraft:waxed_copper_grate",
+    "minecraft:waxed_chiseled_copper"
+  ],
+  "weathered_cut_copper": [
+    "minecraft:weathered_copper_grate",
+    "minecraft:weathered_chiseled_copper"
+  ],
+  "waxed_weathered_cut_copper": [
+    "minecraft:waxed_weathered_copper_grate",
+    "minecraft:waxed_weathered_chiseled_copper"
+  ],
+  "exposed_cut_copper": [
+    "minecraft:exposed_copper_grate",
+    "minecraft:exposed_chiseled_copper"
+  ],
+  "waxed_exposed_cut_copper": [
+    "minecraft:waxed_exposed_copper_grate",
+    "minecraft:waxed_exposed_chiseled_copper"
+  ],
+  "cut_oxidized_copper": [
+    "minecraft:copperoxidized__grate",
+    "minecraft:chiseled_oxidized_copper"
+  ],
+  "waxed_oxidized_cut_copper": [
+    "minecraft:waxed_oxidized_copper_grate",
+    "minecraft:waxed_oxidized_chiseled_copper"
+  ],
+  "handcrafted:wood_plate": [
+    "handcrafted:wood_cup",
+    "handcrafted:wood_bowl",
+    "handcrafted:wood_crockery_combo"
+  ],
+  "handcrafted:white_plate": [
+    "handcrafted:white_cup",
+    "handcrafted:white_bowl",
+    "handcrafted:white_crockery_combo"
+  ],
+  "handcrafted:yellow_plate": [
+    "handcrafted:yellow_cup",
+    "handcrafted:yellow_bowl",
+    "handcrafted:yellow_crockery_combo"
+  ],
+  "handcrafted:blue_plate": [
+    "handcrafted:blue_cup",
+    "handcrafted:blue_bowl",
+    "handcrafted:blue_crockery_combo"
+  ],
+  "handcrafted:terracotta_plate": [
+    "handcrafted:terracotta_cup",
+    "handcrafted:terracotta_bowl",
+    "handcrafted:terracotta_crockery_combo"
+  ],
+  "another_furniture:white_stool": [
+    "another_furniture:white_tall_stool"
+  ],
+  "another_furniture:red_stool": [
+    "another_furniture:red_tall_stool"
+  ],
+  "another_furniture:orange_stool": [
+    "another_furniture:orange_tall_stool"
+  ],
+  "another_furniture:yellow_stool": [
+    "another_furniture:yellow_tall_stool"
+  ],
+  "another_furniture:lime_stool": [
+    "another_furniture:lime_tall_stool"
+  ],
+  "another_furniture:green_stool": [
+    "another_furniture:green_tall_stool"
+  ],
+  "another_furniture:cyan_stool": [
+    "another_furniture:cyan_tall_stool"
+  ],
+  "another_furniture:light_blue_stool": [
+    "another_furniture:light_blue_tall_stool"
+  ],
+  "another_furniture:blue_stool": [
+    "another_furniture:blue_tall_stool"
+  ],
+  "another_furniture:purple_stool": [
+    "another_furniture:purple_tall_stool"
+  ],
+  "another_furniture:magenta_stool": [
+    "another_furniture:magenta_tall_stool"
+  ],
+  "another_furniture:pink_stool": [
+    "another_furniture:pink_tall_stool"
+  ],
+  "another_furniture:light_gray_stool": [
+    "another_furniture:light_gray_tall_stool"
+  ],
+  "another_furniture:gray_stool": [
+    "another_furniture:gray_tall_stool"
+  ],
+  "another_furniture:black_stool": [
+    "another_furniture:black_tall_stool"
+  ],
+  "another_furniture:brown_stool": [
+    "another_furniture:brown_tall_stool"
+  ],
+  "dustydecorations:anchor": [
+    "dustydecorations:giant_anchor"
+  ],
+  "dustydecorations:glass_buoy": [
+    "dustydecorations:small_glass_buoys"
+  ],
+  "paper": [
+    "dustydecorations:scattered_paper_base",
+    "dustydecorations:poster_decor",
+    "dustydecorations:stacked_paper"
+  ],
+  "honey_bottle": [
+    "dustydecorations:honey_jar"
+  ],
+  "dustydecorations:sailor_flag": [
+    "dustydecorations:hanging_sailor_flag"
+  ],
+  "chain": [
+    "dustydecorations:giant_chains"
+  ],
+
+  "dustydecorations:rusty_corrugated_metal_block": [
+    "dustydecorations:rusty_corrugated_metal_grate",
+    "dustydecorations:rusty_corrugated_metal_roofing"
+  ],
+  "dustydecorations:rusty_corrugated_metal_door": [
+    "dustydecorations:rusty_corrugated_metal_trapdoor",
+    "dustydecorations:rusty_corrugated_metal_fence_gate"
+  ],
+  "dustydecorations:rusty_corrugated_button": [
+    "dustydecorations:rusty_corrugated_pressure_plate"
+  ],
+
+  "dustydecorations:corrugated_metal": [
+    "dustydecorations:corrugated_metal_grate",
+    "dustydecorations:corrugated_metal_roofing"
+  ],
+  "dustydecorations:corrugated_metal_fence": [
+    "dustydecorations:corrugated_metal_fence_gate"
+  ],
+  "dustydecorations:corrugated_metal_door": [
+    "dustydecorations:corrugated_metal_trapdoor"
+  ],
+  "dustydecorations:corrugated_metal_button": [
+    "dustydecorations:corrugated_metal_pressure_plate"
+  ],
+  "pumpkin": [
+    "dustydecorations:gourd"
+  ],
+  "beetroot": [
+    "dustydecorations:carved_beet"
+  ],
+  "ribbits:mossy_oak_planks_fence": [
+    "ribbits:mossy_oak_planks_fence_gate"
+  ],
+  "bountifulfares:hoary_planks": [
+    "everycomp:hc/bountifulfares/hoary_pillar_trim",
+    "everycomp:hc/bountifulfares/hoary_corner_trim"
+  ],
+  "bountifulfares:hoary_fence": [
+    "bountifulfares:hoary_fence_gate",
+    "bountifulfares:hoary_pickets"
+  ],
+  "bountifulfares:hoary_door": [
+    "dramaticdoors:short_bf_hoary_door",
+    "dramaticdoors:tall_bf_hoary_door",
+    "bountifulfares:hoary_trapdoor",
+    "everycomp:af/bountifulfares/hoary_shutter"
+  ],
+  "bountifulfares:hoary_button": [
+    "bountifulfares:hoary_pressure_plate"
+  ],
+  "bountifulfares:hoary_sign": [
+    "bountifulfares:hoary_hanging_sign",
+    "supplementaries:bountifulfares/way_sign_hoary"
+  ],
+  "everycomp:af/bountifulfares/hoary_chair": [
+    "everycomp:af/bountifulfares/hoary_bench",
+    "everycomp:hc/bountifulfares/hoary_chair",
+    "everycomp:hc/bountifulfares/hoary_bench",
+    "everycomp:hc/bountifulfares/hoary_dining_bench"
+  ],
+  "everycomp:hc/bountifulfares/hoary_desk": [
+    "everycomp:hc/bountifulfares/hoary_side_table",
+    "everycomp:hc/bountifulfares/hoary_nightstand"
+  ],
+
+  "bountifulfares:walnut_planks": [
+    "everycomp:hc/bountifulfares/walnut_pillar_trim",
+    "everycomp:hc/bountifulfares/walnut_corner_trim"
+  ],
+  "bountifulfares:walnut_fence": [
+    "bountifulfares:walnut_fence_gate",
+    "bountifulfares:walnut_pickets"
+  ],
+  "bountifulfares:walnut_door": [
+    "dramaticdoors:short_bf_walnut_door",
+    "dramaticdoors:tall_bf_walnut_door",
+    "bountifulfares:walnut_trapdoor",
+    "everycomp:af/bountifulfares/walnut_shutter"
+  ],
+  "bountifulfares:walnut_button": [
+    "bountifulfares:walnut_pressure_plate"
+  ],
+  "bountifulfares:walnut_sign": [
+    "bountifulfares:walnut_hanging_sign",
+    "supplementaries:bountifulfares/way_sign_walnut"
+  ],
+  "everycomp:af/bountifulfares/walnut_chair": [
+    "everycomp:af/bountifulfares/walnut_bench",
+    "everycomp:hc/bountifulfares/walnut_chair",
+    "everycomp:hc/bountifulfares/walnut_bench",
+    "everycomp:hc/bountifulfares/walnut_dining_bench"
+  ],
+  "everycomp:hc/bountifulfares/walnut_desk": [
+    "everycomp:hc/bountifulfares/walnut_side_table",
+    "everycomp:hc/bountifulfares/walnut_nightstand"
+  ],
+
+  "bountifulfares:ceramic_door": [
+    "dramaticdoors:short_bf_ceramic_door",
+    "dramaticdoors:tall_bf_ceramic_door",
+    "bountifulfares:ceramic_trapdoor"
+  ],
+  "bountifulfares:ceramic_button": [
+    "bountifulfares:ceramic_pressure_plate"
+  ],
+
+  "minecraft:iron_bars": [
+    "supplementaries:iron_gate",
+    "bountifulfares:iron_railing"
+  ],
+
+  "supplementaries:gold_bars": [
+    "supplementaries:gold_gate"
+  ],
+
+  "mysticsbiomes:black_cherry_planks": [
+    "everycomp:hc/mysticsbiomes/black_cherry_pillar_trim",
+    "everycomp:hc/mysticsbiomes/black_cherry_corner_trim"
+  ],
+  "mysticsbiomes:black_cherry_fence": [
+    "mysticsbiomes:black_cherry_fence_gate",
+    "everycomp:bf/mysticsbiomes/black_cherry_pickets"
+  ],
+  "mysticsbiomes:black_cherry_door": [
+    "dramaticdoors:short_mb_black_cherry_door",
+    "dramaticdoors:tall_mb_black_cherry_door",
+    "mysticsbiomes:black_cherry_trapdoor",
+    "everycomp:af/mysticsbiomes/black_cherry_shutter"
+  ],
+  "mysticsbiomes:black_cherry_button": [
+    "mysticsbiomes:black_cherry_pressure_plate"
+  ],
+  "mysticsbiomes:black_cherry_sign": [
+    "mysticsbiomes:black_cherry_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_black_cherry"
+  ],
+  "everycomp:af/mysticsbiomes/black_cherry_chair": [
+    "everycomp:af/mysticsbiomes/black_cherry_bench",
+    "everycomp:hc/mysticsbiomes/black_cherry_chair",
+    "everycomp:hc/mysticsbiomes/black_cherry_bench",
+    "everycomp:hc/mysticsbiomes/black_cherry_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/black_cherry_desk": [
+    "everycomp:hc/mysticsbiomes/black_cherry_side_table",
+    "everycomp:hc/mysticsbiomes/black_cherry_nightstand"
+  ],
+
+  "mysticsbiomes:strawberry_planks": [
+    "everycomp:hc/mysticsbiomes/strawberry_pillar_trim",
+    "everycomp:hc/mysticsbiomes/strawberry_corner_trim"
+  ],
+  "mysticsbiomes:strawberry_fence": [
+    "mysticsbiomes:strawberry_fence_gate",
+    "everycomp:bf/mysticsbiomes/strawberry_pickets"
+  ],
+  "mysticsbiomes:strawberry_door": [
+    "dramaticdoors:short_mb_strawberry_door",
+    "dramaticdoors:tall_mb_strawberry_door",
+    "mysticsbiomes:strawberry_trapdoor",
+    "everycomp:af/mysticsbiomes/strawberry_shutter"
+  ],
+  "mysticsbiomes:strawberry_button": [
+    "mysticsbiomes:strawberry_pressure_plate"
+  ],
+  "mysticsbiomes:strawberry_sign": [
+    "mysticsbiomes:strawberry_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_strawberry"
+  ],
+  "everycomp:af/mysticsbiomes/strawberry_chair": [
+    "everycomp:af/mysticsbiomes/strawberry_bench",
+    "everycomp:hc/mysticsbiomes/strawberry_chair",
+    "everycomp:hc/mysticsbiomes/strawberry_bench",
+    "everycomp:hc/mysticsbiomes/strawberry_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/strawberry_desk": [
+    "everycomp:hc/mysticsbiomes/strawberry_side_table",
+    "everycomp:hc/mysticsbiomes/strawberry_nightstand"
+  ],
+
+  "mysticsbiomes:lavender_planks": [
+    "everycomp:hc/mysticsbiomes/lavender_pillar_trim",
+    "everycomp:hc/mysticsbiomes/lavender_corner_trim"
+  ],
+  "mysticsbiomes:lavender_fence": [
+    "mysticsbiomes:lavender_fence_gate",
+    "everycomp:bf/mysticsbiomes/lavender_pickets"
+  ],
+  "mysticsbiomes:lavender_door": [
+    "dramaticdoors:short_mb_lavender_door",
+    "dramaticdoors:tall_mb_lavender_door",
+    "mysticsbiomes:lavender_trapdoor",
+    "everycomp:af/mysticsbiomes/lavender_shutter"
+  ],
+  "mysticsbiomes:lavender_button": [
+    "mysticsbiomes:lavender_pressure_plate"
+  ],
+  "mysticsbiomes:lavender_sign": [
+    "mysticsbiomes:lavender_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_lavender"
+  ],
+  "everycomp:af/mysticsbiomes/lavender_chair": [
+    "everycomp:af/mysticsbiomes/lavender_bench",
+    "everycomp:hc/mysticsbiomes/lavender_chair",
+    "everycomp:hc/mysticsbiomes/lavender_bench",
+    "everycomp:hc/mysticsbiomes/lavender_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/lavender_desk": [
+    "everycomp:hc/mysticsbiomes/lavender_side_table",
+    "everycomp:hc/mysticsbiomes/lavender_nightstand"
+  ],
+
+  "mysticsbiomes:peach_planks": [
+    "everycomp:hc/mysticsbiomes/peach_pillar_trim",
+    "everycomp:hc/mysticsbiomes/peach_corner_trim"
+  ],
+  "mysticsbiomes:peach_fence": [
+    "mysticsbiomes:peach_fence_gate",
+    "everycomp:bf/mysticsbiomes/peach_pickets"
+  ],
+  "mysticsbiomes:peach_door": [
+    "dramaticdoors:short_mb_peach_door",
+    "dramaticdoors:tall_mb_peach_door",
+    "mysticsbiomes:peach_trapdoor",
+    "everycomp:af/mysticsbiomes/peach_shutter"
+  ],
+  "mysticsbiomes:peach_button": [
+    "mysticsbiomes:peach_pressure_plate"
+  ],
+  "mysticsbiomes:peach_sign": [
+    "mysticsbiomes:peach_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_peach"
+  ],
+  "everycomp:af/mysticsbiomes/peach_chair": [
+    "everycomp:af/mysticsbiomes/peach_bench",
+    "everycomp:hc/mysticsbiomes/peach_chair",
+    "everycomp:hc/mysticsbiomes/peach_bench",
+    "everycomp:hc/mysticsbiomes/peach_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/peach_desk": [
+    "everycomp:hc/mysticsbiomes/peach_side_table",
+    "everycomp:hc/mysticsbiomes/peach_nightstand"
+  ],
+
+  "mysticsbiomes:maple_planks": [
+    "everycomp:hc/mysticsbiomes/maple_pillar_trim",
+    "everycomp:hc/mysticsbiomes/maple_corner_trim"
+  ],
+  "mysticsbiomes:maple_fence": [
+    "mysticsbiomes:maple_fence_gate",
+    "everycomp:bf/mysticsbiomes/maple_pickets"
+  ],
+  "mysticsbiomes:maple_door": [
+    "dramaticdoors:short_mb_maple_door",
+    "dramaticdoors:tall_mb_maple_door",
+    "mysticsbiomes:maple_trapdoor",
+    "everycomp:af/mysticsbiomes/maple_shutter"
+  ],
+  "mysticsbiomes:maple_button": [
+    "mysticsbiomes:maple_pressure_plate"
+  ],
+  "mysticsbiomes:maple_sign": [
+    "mysticsbiomes:maple_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_maple"
+  ],
+  "everycomp:af/mysticsbiomes/maple_chair": [
+    "everycomp:af/mysticsbiomes/maple_bench",
+    "everycomp:hc/mysticsbiomes/maple_chair",
+    "everycomp:hc/mysticsbiomes/maple_bench",
+    "everycomp:hc/mysticsbiomes/maple_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/maple_desk": [
+    "everycomp:hc/mysticsbiomes/maple_side_table",
+    "everycomp:hc/mysticsbiomes/maple_nightstand"
+  ],
+
+
+  "mysticsbiomes:spring_planks": [
+    "everycomp:hc/mysticsbiomes/spring_pillar_trim",
+    "everycomp:hc/mysticsbiomes/spring_corner_trim"
+  ],
+  "mysticsbiomes:spring_fence": [
+    "mysticsbiomes:spring_fence_gate",
+    "everycomp:bf/mysticsbiomes/spring_pickets"
+  ],
+  "mysticsbiomes:spring_door": [
+    "dramaticdoors:short_mb_spring_door",
+    "dramaticdoors:tall_mb_spring_door",
+    "mysticsbiomes:spring_trapdoor",
+    "everycomp:af/mysticsbiomes/spring_shutter"
+  ],
+  "mysticsbiomes:spring_button": [
+    "mysticsbiomes:spring_pressure_plate"
+  ],
+  "mysticsbiomes:spring_sign": [
+    "mysticsbiomes:spring_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_spring"
+  ],
+  "everycomp:af/mysticsbiomes/spring_chair": [
+    "everycomp:af/mysticsbiomes/spring_bench",
+    "everycomp:hc/mysticsbiomes/spring_chair",
+    "everycomp:hc/mysticsbiomes/spring_bench",
+    "everycomp:hc/mysticsbiomes/spring_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/spring_desk": [
+    "everycomp:hc/mysticsbiomes/spring_side_table",
+    "everycomp:hc/mysticsbiomes/spring_nightstand"
+  ],
+
+  "mysticsbiomes:tropical_planks": [
+    "everycomp:hc/mysticsbiomes/tropical_pillar_trim",
+    "everycomp:hc/mysticsbiomes/tropical_corner_trim"
+  ],
+  "mysticsbiomes:tropical_fence": [
+    "mysticsbiomes:tropical_fence_gate",
+    "everycomp:bf/mysticsbiomes/tropical_pickets"
+  ],
+  "mysticsbiomes:tropical_door": [
+    "dramaticdoors:short_mb_tropical_door",
+    "dramaticdoors:tall_mb_tropical_door",
+    "mysticsbiomes:tropical_trapdoor",
+    "everycomp:af/mysticsbiomes/tropical_shutter"
+  ],
+  "mysticsbiomes:tropical_button": [
+    "mysticsbiomes:tropical_pressure_plate"
+  ],
+  "mysticsbiomes:tropical_sign": [
+    "mysticsbiomes:tropical_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_tropical"
+  ],
+  "everycomp:af/mysticsbiomes/tropical_chair": [
+    "everycomp:af/mysticsbiomes/tropical_bench",
+    "everycomp:hc/mysticsbiomes/tropical_chair",
+    "everycomp:hc/mysticsbiomes/tropical_bench",
+    "everycomp:hc/mysticsbiomes/tropical_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/tropical_desk": [
+    "everycomp:hc/mysticsbiomes/tropical_side_table",
+    "everycomp:hc/mysticsbiomes/tropical_nightstand"
+  ],
+
+  "mysticsbiomes:sea_foam_planks": [
+    "everycomp:hc/mysticsbiomes/sea_foam_pillar_trim",
+    "everycomp:hc/mysticsbiomes/sea_foam_corner_trim"
+  ],
+  "mysticsbiomes:sea_foam_fence": [
+    "mysticsbiomes:sea_foam_fence_gate",
+    "everycomp:bf/mysticsbiomes/sea_foam_pickets"
+  ],
+  "mysticsbiomes:sea_foam_door": [
+    "dramaticdoors:short_mb_sea_foam_door",
+    "dramaticdoors:tall_mb_sea_foam_door",
+    "mysticsbiomes:sea_foam_trapdoor",
+    "everycomp:af/mysticsbiomes/sea_foam_shutter"
+  ],
+  "mysticsbiomes:sea_foam_button": [
+    "mysticsbiomes:sea_foam_pressure_plate"
+  ],
+  "mysticsbiomes:sea_foam_sign": [
+    "mysticsbiomes:sea_foam_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_sea_foam"
+  ],
+  "everycomp:af/mysticsbiomes/sea_foam_chair": [
+    "everycomp:af/mysticsbiomes/sea_foam_bench",
+    "everycomp:hc/mysticsbiomes/sea_foam_chair",
+    "everycomp:hc/mysticsbiomes/sea_foam_bench",
+    "everycomp:hc/mysticsbiomes/sea_foam_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/sea_foam_desk": [
+    "everycomp:hc/mysticsbiomes/sea_foam_side_table",
+    "everycomp:hc/mysticsbiomes/sea_foam_nightstand"
+  ],
+
+  "mysticsbiomes:vanilla_planks": [
+    "everycomp:hc/mysticsbiomes/vanilla_pillar_trim",
+    "everycomp:hc/mysticsbiomes/vanilla_corner_trim"
+  ],
+  "mysticsbiomes:vanilla_fence": [
+    "mysticsbiomes:vanilla_fence_gate",
+    "everycomp:bf/mysticsbiomes/vanilla_pickets"
+  ],
+  "mysticsbiomes:vanilla_door": [
+    "dramaticdoors:short_mb_vanilla_door",
+    "dramaticdoors:tall_mb_vanilla_door",
+    "mysticsbiomes:vanilla_trapdoor",
+    "everycomp:af/mysticsbiomes/vanilla_shutter"
+  ],
+  "mysticsbiomes:vanilla_button": [
+    "mysticsbiomes:vanilla_pressure_plate"
+  ],
+  "mysticsbiomes:vanilla_sign": [
+    "mysticsbiomes:vanilla_hanging_sign",
+    "supplementaries:mysticsbiomes/way_sign_vanilla"
+  ],
+  "everycomp:af/mysticsbiomes/vanilla_chair": [
+    "everycomp:af/mysticsbiomes/vanilla_bench",
+    "everycomp:hc/mysticsbiomes/vanilla_chair",
+    "everycomp:hc/mysticsbiomes/vanilla_bench",
+    "everycomp:hc/mysticsbiomes/vanilla_dining_bench"
+  ],
+  "everycomp:hc/mysticsbiomes/vanilla_desk": [
+    "everycomp:hc/mysticsbiomes/vanilla_side_table",
+    "everycomp:hc/mysticsbiomes/vanilla_nightstand"
+  ],
+
+  "arts_and_crafts:cork_planks": [
+    "everycomp:hc/arts_and_crafts/cork_pillar_trim",
+    "everycomp:hc/arts_and_crafts/cork_corner_trim"
+  ],
+  "arts_and_crafts:cork_fence": [
+    "arts_and_crafts:cork_fence_gate",
+    "arts_and_crafts:cork_pickets"
+  ],
+  "arts_and_crafts:cork_door": [
+    "dramaticdoors:short_cork_door",
+    "dramaticdoors:tall_cork_door",
+    "arts_and_crafts:cork_trapdoor",
+    "everycomp:af/arts_and_crafts/cork_shutter"
+  ],
+  "arts_and_crafts:cork_button": [
+    "arts_and_crafts:cork_pressure_plate"
+  ],
+  "arts_and_crafts:cork_sign": [
+    "arts_and_crafts:cork_hanging_sign",
+    "supplementaries:arts_and_crafts/way_sign_cork"
+  ],
+  "everycomp:af/arts_and_crafts/cork_chair": [
+    "everycomp:af/arts_and_crafts/cork_bench",
+    "everycomp:hc/arts_and_crafts/cork_chair",
+    "everycomp:hc/arts_and_crafts/cork_bench",
+    "everycomp:hc/arts_and_crafts/cork_dining_bench"
+  ],
+  "everycomp:hc/arts_and_crafts/cork_desk": [
+    "everycomp:hc/arts_and_crafts/cork_side_table",
+    "everycomp:hc/arts_and_crafts/cork_nightstand"
+  ],
+
+  "darkerdepths:petrified_planks": [
+    "everycomp:hc/darkerdepths/petrified_pillar_trim",
+    "everycomp:hc/darkerdepths/petrified_corner_trim"
+  ],
+  "darkerdepths:petrified_fence": [
+    "darkerdepths:petrified_fence_gate",
+    "everycomp:bf/darkerdepths/petrified_pickets"
+  ],
+  "darkerdepths:petrified_door": [
+    "dramaticdoors:short_petrified_door",
+    "dramaticdoors:tall_petrified_door",
+    "darkerdepths:petrified_trapdoor",
+    "everycomp:af/darkerdepths/petrified_shutter"
+  ],
+  "darkerdepths:petrified_button": [
+    "darkerdepths:petrified_pressure_plate"
+  ],
+  "darkerdepths:petrified_sign": [
+    "darkerdepths:petrified_hanging_sign",
+    "supplementaries:darkerdepths/way_sign_petrified"
+  ],
+  "everycomp:af/darkerdepths/petrified_chair": [
+    "everycomp:af/darkerdepths/petrified_bench",
+    "everycomp:hc/darkerdepths/petrified_chair",
+    "everycomp:hc/darkerdepths/petrified_bench",
+    "everycomp:hc/darkerdepths/petrified_dining_bench"
+  ],
+  "everycomp:hc/darkerdepths/petrified_desk": [
+    "everycomp:hc/darkerdepths/petrified_side_table",
+    "everycomp:hc/darkerdepths/petrified_nightstand"
+  ],
+
+
+  "ghosts:haunted_planks": [
+    "everycomp:hc/ghosts/haunted_pillar_trim",
+    "everycomp:hc/ghosts/haunted_corner_trim"
+  ],
+  "ghosts:haunted_fence": [
+    "ghosts:haunted_fence_gate",
+    "everycomp:bf/ghosts/haunted_pickets"
+  ],
+  "ghosts:haunted_door": [
+    "everycomp:dd/ghosts/short_haunted_door",
+    "everycomp:dd/ghosts/tall_haunted_door",
+    "ghosts:haunted_trapdoor",
+    "everycomp:af/ghosts/haunted_shutter"
+  ],
+  "ghosts:haunted_button": [
+    "ghosts:haunted_pressure_plate"
+  ],
+  "ghosts:haunted_sign": [
+    "ghosts:haunted_hanging_sign",
+    "supplementaries:ghosts/way_sign_haunted"
+  ],
+  "everycomp:af/ghosts/haunted_chair": [
+    "everycomp:af/ghosts/haunted_bench",
+    "everycomp:hc/ghosts/haunted_chair",
+    "everycomp:hc/ghosts/haunted_bench",
+    "everycomp:hc/ghosts/haunted_dining_bench"
+  ],
+  "everycomp:hc/ghosts/haunted_desk": [
+    "everycomp:hc/ghosts/haunted_side_table",
+    "everycomp:hc/ghosts/haunted_nightstand"
+  ],
+
+  "dungeonsdelight:wormwood_planks": [
+    "everycomp:hc/dungeonsdelight/wormwood_pillar_trim",
+    "everycomp:hc/dungeonsdelight/wormwood_corner_trim"
+  ],
+  "dungeonsdelight:wormwood_fence": [
+    "dungeonsdelight:wormwood_fence_gate",
+    "dungeonsdelight:wormwood_pickets"
+  ],
+  "dungeonsdelight:wormwood_door": [
+    "everycomp:dd/dungeonsdelight/short_wormwood_door",
+    "everycomp:dd/dungeonsdelight/tall_wormwood_door",
+    "dungeonsdelight:wormwood_trapdoor",
+    "everycomp:af/dungeonsdelight/wormwood_shutter"
+  ],
+  "dungeonsdelight:wormwood_button": [
+    "dungeonsdelight:wormwood_pressure_plate"
+  ],
+  "dungeonsdelight:wormwood_sign": [
+    "dungeonsdelight:wormwood_hanging_sign",
+    "supplementaries:dungeonsdelight/way_sign_wormwood"
+  ],
+  "everycomp:af/dungeonsdelight/wormwood_chair": [
+    "everycomp:af/dungeonsdelight/wormwood_bench",
+    "everycomp:hc/dungeonsdelight/wormwood_chair",
+    "everycomp:hc/dungeonsdelight/wormwood_bench",
+    "everycomp:hc/dungeonsdelight/wormwood_dining_bench"
+  ],
+  "everycomp:hc/dungeonsdelight/wormwood_desk": [
+    "everycomp:hc/dungeonsdelight/wormwood_side_table",
+    "everycomp:hc/dungeonsdelight/wormwood_nightstand"
+  ],
+
+  "supplementaries:gold_door": [
+    "dramaticdoors:short_gold_door",
+    "dramaticdoors:tall_gold_door",
+    "supplementaries:gold_trapdoor"
+  ],
+  "supplementaries:netherite_door": [
+    "dramaticdoors:short_netherite_door",
+    "dramaticdoors:tall_netherite_door",
+    "supplementaries:netherite_trapdoor"
+  ],
+
+  "farmersdelight:rope": [
+    "dustydecorations:rope_coil"
+  ],
+  "farmersdelight:rope_fence": [
+    "farmersdelight:rope_fence_gate"
+  ],
+
+  "dustydecorations:copper_light": [
+    "dustydecorations:shoddy_copper_light"
+  ],
+  "minecraft:nautilus_shell": [
+    "dustydecorations:small_nautilus_shell"
+  ],
+
+  "dungeonsdelight:stained_scrap_bars": [
+    "dungeonsdelight:stained_scrap_railing"
+  ],
+  "dungeonsdelight:stained_scrap_door": [
+    "dungeonsdelight:stained_scrap_trapdoor"
+  ],
+
+  "clayworks:glass_door": [
+    "dramaticdoors:short_glass_door",
+    "dramaticdoors:tall_glass_door",
+    "clayworks:glass_trapdoor"
+  ],
+  "clayworks:black_stained_glass_door": [
+    "dramaticdoors:short_black_stained_glass_door",
+    "dramaticdoors:tall_black_stained_glass_door",
+    "clayworks:black_stained_glass_trapdoor"
+  ],
+  "clayworks:gray_stained_glass_door": [
+    "dramaticdoors:short_gray_stained_glass_door",
+    "dramaticdoors:tall_gray_stained_glass_door",
+    "clayworks:gray_stained_glass_trapdoor"
+  ],
+  "clayworks:light_gray_stained_glass_door": [
+    "dramaticdoors:short_light_gray_stained_glass_door",
+    "dramaticdoors:tall_light_gray_stained_glass_door",
+    "clayworks:light_gray_stained_glass_trapdoor"
+  ],
+  "clayworks:white_stained_glass_door": [
+    "dramaticdoors:short_white_stained_glass_door",
+    "dramaticdoors:tall_white_stained_glass_door",
+    "clayworks:white_stained_glass_trapdoor"
+  ],
+  "clayworks:brown_stained_glass_door": [
+    "dramaticdoors:short_brown_stained_glass_door",
+    "dramaticdoors:tall_brown_stained_glass_door",
+    "clayworks:brown_stained_glass_trapdoor"
+  ],
+  "clayworks:red_stained_glass_door": [
+    "dramaticdoors:short_red_stained_glass_door",
+    "dramaticdoors:tall_red_stained_glass_door",
+    "clayworks:red_stained_glass_trapdoor"
+  ],
+  "clayworks:orange_stained_glass_door": [
+    "dramaticdoors:short_orange_stained_glass_door",
+    "dramaticdoors:tall_orange_stained_glass_door",
+    "clayworks:orange_stained_glass_trapdoor"
+  ],
+  "clayworks:yellow_stained_glass_door": [
+    "dramaticdoors:short_yellow_stained_glass_door",
+    "dramaticdoors:tall_yellow_stained_glass_door",
+    "clayworks:yellow_stained_glass_trapdoor"
+  ],
+  "clayworks:lime_stained_glass_door": [
+    "dramaticdoors:short_lime_stained_glass_door",
+    "dramaticdoors:tall_lime_stained_glass_door",
+    "clayworks:lime_stained_glass_trapdoor"
+  ],
+  "clayworks:green_stained_glass_door": [
+    "dramaticdoors:short_green_stained_glass_door",
+    "dramaticdoors:tall_green_stained_glass_door",
+    "clayworks:green_stained_glass_trapdoor"
+  ],
+  "clayworks:cyan_stained_glass_door": [
+    "dramaticdoors:short_cyan_stained_glass_door",
+    "dramaticdoors:tall_cyan_stained_glass_door",
+    "clayworks:cyan_stained_glass_trapdoor"
+  ],
+  "clayworks:light_blue_stained_glass_door": [
+    "dramaticdoors:short_light_blue_stained_glass_door",
+    "dramaticdoors:tall_light_blue_stained_glass_door",
+    "clayworks:light_blue_stained_glass_trapdoor"
+  ],
+  "clayworks:blue_stained_glass_door": [
+    "dramaticdoors:short_blue_stained_glass_door",
+    "dramaticdoors:tall_blue_stained_glass_door",
+    "clayworks:blue_stained_glass_trapdoor"
+  ],
+  "clayworks:purple_stained_glass_door": [
+    "dramaticdoors:short_purple_stained_glass_door",
+    "dramaticdoors:tall_purple_stained_glass_door",
+    "clayworks:purple_stained_glass_trapdoor"
+  ],
+  "clayworks:magenta_stained_glass_door": [
+    "dramaticdoors:short_magenta_stained_glass_door",
+    "dramaticdoors:tall_magenta_stained_glass_door",
+    "clayworks:magenta_stained_glass_trapdoor"
+  ],
+  "clayworks:pink_stained_glass_door": [
+    "dramaticdoors:short_pink_stained_glass_door",
+    "dramaticdoors:tall_pink_stained_glass_door",
+    "clayworks:pink_stained_glass_trapdoor"
+  ]
+}

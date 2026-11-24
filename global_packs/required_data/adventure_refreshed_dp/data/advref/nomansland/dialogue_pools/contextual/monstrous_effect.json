@@ -1,0 +1,19 @@
+{
+    "condition": {
+        "type": "nomansland:effect_conditional",
+        "effects": [
+            "dungeonsdelight:burrow_gut",
+            "dungeonsdelight:decisive",
+            "dungeonsdelight:exudation",
+            "dungeonsdelight:feral_bite",
+            "dungeonsdelight:pouncing",
+            "dungeonsdelight:ravenous_rush",
+            "dungeonsdelight:rotgut",
+            "dungeonsdelight:swift_step",
+            "dungeonsdelight:tenacity",
+            "dungeonsdelight:voracity"
+        ]
+    },
+    "weight": 1,
+    "text": "You have/ succumbed/ to decay.// How// regretful..."
+}

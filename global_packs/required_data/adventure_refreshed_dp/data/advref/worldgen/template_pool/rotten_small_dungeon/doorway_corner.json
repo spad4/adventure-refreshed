@@ -1,0 +1,59 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/doorway/arch_corner",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "advref:rotten_small_dungeon/doorway/closed_corner",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "advref:rotten_small_dungeon/doorway/dead_end_corner",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "location": "advref:rotten_small_dungeon/doorway/hidden_corner",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/doorway/open_corner",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "location": "advref:rotten_small_dungeon/doorway/small_corner",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

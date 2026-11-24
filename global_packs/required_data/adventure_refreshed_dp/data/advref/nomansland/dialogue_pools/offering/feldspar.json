@@ -1,0 +1,8 @@
+{
+    "condition": {
+        "type": "nomansland:item_conditional",
+        "items": [ "bountifulfares:feldspar", "bountifulfares:feldspar_block" ]
+    },
+    "weight": 1,
+    "text": "Ah,/ that com/mon/ stone.// Fun/damental,/ but/ not quite,/ not quite.//\nYou/ walk the /right path."
+}

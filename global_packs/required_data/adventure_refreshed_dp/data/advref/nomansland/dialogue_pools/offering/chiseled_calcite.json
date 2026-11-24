@@ -1,0 +1,8 @@
+{
+    "condition": {
+        "type": "nomansland:item_conditional",
+        "items": "spelunkerspalette:chiseled_calcite"
+    },
+    "weight": 1,
+    "text": "What a/ curious/ prophecy/././. //\nDid You/ dream of/ this?"
+}

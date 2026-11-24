@@ -1,0 +1,25 @@
+{
+    "values": [
+        "minecraft:zombie",
+        "minecraft:skeleton",
+        "minecraft:spider",
+        "minecraft:creeper",
+        "minecraft:husk",
+        "minecraft:stray",
+        "minecraft:bogged",
+        "minecraft:witch",
+        "minecraft:phantom",
+        "minecraft:enderman",
+        // "creeperoverhaul:badlands_creeper",
+        // "creeperoverhaul:beach_creeper",
+        // "creeperoverhaul:birch_creeper",
+        // "creeperoverhaul:cave_creeper",
+        // "creeperoverhaul:dark_oak_creeper",
+        // "creeperoverhaul:desert_creeper",
+        // "creeperoverhaul:dripstone_creeper",
+        // "creeperoverhaul:spruce_creeper",
+        // "creeperoverhaul:swamp_creeper",
+        // "creeperoverhaul:jungle_creeper",
+        "minecraft:zombie_villager"
+    ]
+}

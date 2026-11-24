@@ -1,0 +1,24 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "advref:chests/village/plains_belongings"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "advref:chests/village/valuables"
+                }
+            ]
+        }
+    ],
+    "functions": [],
+    "random_sequence": "advref:chests/village/plains_valuables"
+}

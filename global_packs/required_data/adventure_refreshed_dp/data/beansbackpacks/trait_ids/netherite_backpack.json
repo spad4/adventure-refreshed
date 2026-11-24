@@ -1,0 +1,8 @@
+{
+  "backpack": {
+    "size": 16,
+    "texture": "beansbackpacks:netherite",
+    "sound": "hard"
+  },
+  "utilities": 2
+}

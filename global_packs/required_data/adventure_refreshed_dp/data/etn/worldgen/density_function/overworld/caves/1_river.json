@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:cache_2d",
+  "argument": {
+    "type": "minecraft:abs",
+    "argument": {
+      "type": "minecraft:shifted_noise",
+      "noise": "minecraft:ridge",
+      "xz_scale": 0.25,
+      "y_scale": 0,
+      "shift_x": 0,
+      "shift_y": {
+        "type": "minecraft:mul",
+        "argument1": "minecraft:overworld/erosion",
+        "argument2": 120
+      },
+      "shift_z": 0
+    }
+  }
+}

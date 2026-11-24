@@ -1,0 +1,52 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:terracotta_plate"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:terracotta_bowl"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:terracotta_cup"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:yellow_plate"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:yellow_bowl"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:yellow_cup"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:yellow_dye"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:green_dye"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:flower_pot"
+                }
+            ],
+            "rolls": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 2.0
+            }
+        }
+    ],
+    "random_sequence": "minecraft:chests/village/desert_belongings"
+}

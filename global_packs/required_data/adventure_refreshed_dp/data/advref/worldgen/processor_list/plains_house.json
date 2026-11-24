@@ -1,0 +1,48 @@
+{
+    "processors": [
+        {
+            "rules": [
+                {
+                    "input_predicate": {
+                        "block": "minecraft:cobblestone",
+                        "predicate_type": "minecraft:random_block_match",
+                        "probability": 0.7
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    },
+                    "output_state": {
+                        "Name": "minecraft:mossy_cobblestone"
+                    }
+                },
+                {
+                    "output_state": {
+                        "Name": "spawn:cracked_rotten_planks"
+                    },
+                    "input_predicate": {
+                        "block": "spawn:rotten_planks",
+                        "probability": 0.50,
+                        "predicate_type": "minecraft:random_block_match"
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    }
+                },
+                {
+                    "output_state": {
+                        "Name": "minecraft:air"
+                    },
+                    "input_predicate": {
+                        "block": "minecraft:cobweb",
+                        "probability": 0.75,
+                        "predicate_type": "minecraft:random_block_match"
+                    },
+                    "location_predicate": {
+                        "predicate_type": "minecraft:always_true"
+                    }
+                }
+            ],
+            "processor_type": "minecraft:rule"
+        }
+    ]
+}

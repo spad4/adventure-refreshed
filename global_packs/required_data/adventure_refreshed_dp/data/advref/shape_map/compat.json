@@ -1,0 +1,189 @@
+{
+    "priority": 1,
+    "add": {
+        "/(?<ns>[^:]+):(?<material>.+)_door/": [
+            "${ns}:${material}_trapdoor"
+        ],
+        "/minecraft:(?<wood>.+)_door/": [
+            "another_furniture:${wood}_shutter"
+        ],
+        "/(?<ns>.+):(?<wood>.+)_door/": [
+            "everycomp:af/${ns}/${wood}_shutter"
+        ],
+        "/minecraft:(?<wood>.+)_fence/": [
+            "minecraft:${wood}_fence_gate",
+            "bountifulfares:${wood}_pickets",
+            "bountifulfares:${wood}_trellis"
+        ],
+        "/nomansland:(?<wood>.+)_fence/": [
+            "nomansland:${wood}_fence_gate",
+            "nomansland:${wood}_pickets",
+            "nomansland:${wood}_trellis"
+        ],
+        "/farmersdelight:(?<wood>.+)_fence/": [
+            "farmersdelight:${wood}_fence_gate"
+        ],
+        "/bountifulfares:(?<wood>.+)_fence/": [
+            "bountifulfares:${wood}_fence_gate",
+            "bountifulfares:${wood}_pickets",
+            "bountifulfares:${wood}_trellis"
+        ],
+        "/dungeonsdelight:(?<wood>.+)_fence/": [
+            "dungeonsdelight:${wood}_fence_gate",
+            "dungeonsdelight:${wood}_pickets",
+            "dungeonsdelight:${wood}_trellis"
+        ],
+        "/quark:(?<wood>.+)_fence/": [
+            "quark:${wood}_fence_gate",
+            "everycomp:bf/quark/${wood}_pickets",
+            "everycomp:bf/quark/${wood}_trellis"
+        ],
+        "/spawn:(?<wood>.+)_fence/": [
+            "spawn:${wood}_fence_gate",
+            "everycomp:bf/spawn/${wood}_pickets",
+            "everycomp:bf/spawn/${wood}_trellis"
+        ],
+        "minecraft:oak_fence": [
+            "bountifulfares:trellis"
+        ],
+        "nomansland:walnut_fence": [
+            "nomansland:walnut_fence_gate"
+        ],
+        "/(?<ns>[^:]+):(?<wood>.+)_sign/": [
+            "${ns}:${wood}_hanging_sign",
+            "supplementaries:way_sign_${wood}",
+            "supplementaries:${ns}/way_sign_${wood}"
+        ],
+        "/(?<ns>[^:]+):(?<material>.+)_pressure_plate/": [
+            "${ns}:${material}_button"
+        ],
+        "/another_furniture:(?<color>.+)_stool/": [
+            "another_furniture:${color}_tall_stool"
+        ],
+        "/another_furniture:(?<wood>.+)_chair/": [
+            "handcrafted:${wood}_chair",
+            "another_furniture:${wood}_bench",
+            "handcrafted:${wood}_bench"
+        ],
+        "/everycomp:af/(?<ns>.+)/(?<wood>.+)_chair/": [
+            "everycomp:hc/${ns}/${wood}_chair",
+            "everycomp:af/${ns}/${wood}_bench",
+            "everycomp:hc/${ns}/${wood}_bench"
+        ],
+        "minecraft:chest": [
+            "minecraft:barrel"
+        ],
+        "/nomansland:trimmed_(?<material>.+)_planks/": [
+            "handcrafted:${material}_corner_trim",
+            "handcrafted:${material}_pillar_trim",
+            "everycomp:hc/nomansland/${material}_corner_trim",
+            "everycomp:hc/nomansland/${material}_pillar_trim",
+            "everycomp:hc/bountifulfares/${material}_corner_trim",
+            "everycomp:hc/bountifulfares/${material}_pillar_trim"
+        ],
+        "/everycomp:nml/(?<ns>.+)/trimmed_(?<material>.+)_planks/": [
+            "everycomp:hc/${ns}/${material}_corner_trim",
+            "everycomp:hc/${ns}/${material}_pillar_trim"
+        ],
+        "/spelunkerspalette:chiseled_(?<material>.+)/": [
+            "handcrafted:${material}_corner_trim",
+            "handcrafted:${material}_pillar_trim"
+        ],
+        "/minecraft:chiseled_(?<material>.+)/": [
+            "handcrafted:${material}_corner_trim",
+            "handcrafted:${material}_pillar_trim"
+        ],
+        "minecraft:chiseled_quartz_block": [
+            "handcrafted:quartz_corner_trim",
+            "handcrafted:quartz_pillar_trim"
+        ],
+        "minecraft:chiseled_polished_blackstone": [
+            "handcrafted:blackstone_corner_trim",
+            "handcrafted:blackstone_pillar_trim"
+        ],
+        "minecraft:chiseled_stone_bricks": [
+            "handcrafted:stone_corner_trim",
+            "handcrafted:stone_pillar_trim"
+        ],
+        "/handcrafted:(?<material>.+)_thin_pot/": [
+            "handcrafted:${material}_medium_pot",
+            "handcrafted:${material}_wide_pot",
+            "handcrafted:${material}_thick_pot"
+        ],
+        "/(?<ns>.+):(?<material>.+)_desk/": [
+            "${ns}:${material}_side_table"
+        ],
+        "/handcrafted:(?<material>.+)_plate/": [
+            "handcrafted:${material}_cup",
+            "handcrafted:${material}_bowl",
+            "handcrafted:${material}_crockery_combo"
+        ],
+        "minecraft:book": [
+            "handcrafted:stackable_book"
+        ],
+        "handcrafted:kitchen_hood": [
+            "handcrafted:kitchen_hood_pipe"
+        ],
+        "farmersdelight:canvas_sign": [
+            "farmersdelight:hanging_canvas_sign"
+        ],
+        "/farmersdelight:(?<color>.+)_canvas_sign/": [
+            "farmersdelight:${color}_hanging_canvas_sign"
+        ],
+        "farmersdelight:rope": [
+            "farmersdelight:safety_net"
+        ],
+        "farmersdelight:tatami": [
+            "farmersdelight:full_tatami_mat",
+            "farmersdelight:half_tatami_mat"
+        ],
+        "/another_furniture:(?<wood>.+)_drawer/": [
+            "farmersdelight:${wood}_cabinet"
+        ],
+        "minecraft:iron_bars": [
+            "supplementaries:iron_gate",
+            "bountifulfares:iron_railing"
+        ],
+        "supplementaries:gold_bars": [
+            "supplementaries:gold_gate"
+        ],
+        "dungeonsdelight:stained_scrap_bars": [
+            "dungeonsdelight:stained_scrap_railing"
+        ],
+        "/everycomp:af/(?<ns>.+)/(?<wood>.+)_drawer/": [
+            "everycomp:fd/${ns}/${wood}_cabinet",
+            "farmersdelight:${wood}_cabinet",
+            "${ns}:${wood}_cabinet"
+        ],
+        "/minecraft:(?<color>.+)_wool/": [
+            "minecraft:${color}_carpet"
+        ],
+        "bountifulfares:packed_coconut_coir": [
+            "bountifulfares:coir_carpet"
+        ],
+        "creaturefeature:down_feathers": [
+            "creaturefeature:down_feathers_carpet"
+        ],
+        "creaturefeature:mosaic_down_feathers": [
+            "creaturefeature:mosaic_down_feathers_carpet"
+        ],
+        "minecraft:moss_block": [
+            "minecraft:moss_carpet"
+        ],
+        "spawn:red_algae_block": [
+            "spawn:red_algae_carpet"
+        ],
+        "minecraft:snow_block": [
+            "minecraft:snow"
+        ],
+        "minecraft:heavy_weighted_pressure_plate": [
+            "quark:iron_button"
+        ],
+        "minecraft:light_weighted_pressure_plate": [
+            "quark:gold_button"
+        ],
+        "farmersdelight:canvas": [
+            "farmersdelight:canvas_rug"
+        ]
+    }
+}

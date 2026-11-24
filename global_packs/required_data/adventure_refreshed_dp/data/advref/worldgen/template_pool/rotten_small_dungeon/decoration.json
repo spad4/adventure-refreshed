@@ -1,0 +1,140 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 15,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/chest",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/trapped_chest",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/cauldron",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/dead_bush",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/brown_mushroom",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/bookshelf_small",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/bookshelf",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/bookshelf_large",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/torch",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 20,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/sconce_torch",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/shelf",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 15,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/mushroom_shelf",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/drawer",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/tall_drawer",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "location": "advref:rotten_small_dungeon/decoration/cabinets",
+        "processors": "advref:rotten_small_dungeon",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

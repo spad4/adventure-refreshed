@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:max",
+  "argument1": "minecraft:overworld/caves/noodle1",
+  "argument2": {
+    "type": "minecraft:y_clamped_gradient",
+    "from_y": -119,
+    "to_y": -124,
+    "from_value": -1.5,
+    "to_value": 1.5
+  }
+}

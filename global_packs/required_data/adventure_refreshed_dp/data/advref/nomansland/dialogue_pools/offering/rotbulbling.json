@@ -1,0 +1,8 @@
+{
+    "condition": {
+        "type": "nomansland:item_conditional",
+        "items": ["dungeonsdelight:rotbulb_crop" ]
+    },
+    "weight": 1,
+    "text": "A vile/ seed of decay.// It is best/ not/ to nurture/ such things."
+}

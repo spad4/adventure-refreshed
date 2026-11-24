@@ -1,0 +1,8 @@
+{
+  "backpack": {
+    "size": 9,
+    "texture": "beansbackpacks:iron",
+    "sound": "hard"
+  },
+  "utilities": 1
+}

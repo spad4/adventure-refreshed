@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "nomansland:small_dungeon",
+      "weight": 1
+    },
+    {
+      "structure": "advref:rotten_small_dungeon",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 9418,
+    "separation": 4,
+    "spacing": 10,
+    "type": "minecraft:random_spread"
+  }
+}
