@@ -1,5 +1,5 @@
-const { $BlockPlaceContext } = require("@package/net/minecraft/world/item/context");
-const { $BlockHitResult } = require("@package/net/minecraft/world/phys");
+let $BlockPlaceContext = Java.loadClass("net.minecraft.world.item.context.BlockPlaceContext");
+let $BlockHitResult = Java.loadClass("net.minecraft.world.phys.BlockHitResult");
 
 NetworkEvents.dataReceived("assisted_building_toggle", (event) => {
     const { entity, data } = event;

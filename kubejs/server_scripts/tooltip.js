@@ -125,7 +125,7 @@ tooltips.push({
 tooltips.push({
     condition: (item) => item.hasTag("spawn:catches_octopus"),
     icon: "\uE017",
-    expanded: "catch octopuses",
+    expanded: "use to catch octopuses",
 });
 
 ItemEvents.modifyTooltips((event) => {

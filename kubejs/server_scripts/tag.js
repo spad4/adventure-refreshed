@@ -158,7 +158,9 @@ ServerEvents.tags("item", event => {
         "quark:egg_parrot_blue",
         "quark:egg_parrot_red",
         "creaturefeature:murky_pearl",
-        "creaturefeature:solar_sharde//",
+        "creaturefeature:solar_shard",
+        "quark:pickarang",
+        "quark:flamarang",
     ]);
     event.add("advref:backpack_utilities", [
         "minecraft:crafting_table",

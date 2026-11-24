@@ -1,4 +1,4 @@
-const { $BlockHitResult } = require("@package/net/minecraft/world/phys");
+let $BlockHitResult = Java.loadClass("net.minecraft.world.phys.BlockHitResult");
 
 const playSound =
     "playSound(net.minecraft.world.entity.Entity,net.minecraft.core.BlockPos,net.minecraft.sounds.SoundEvent,net.minecraft.sounds.SoundSource,float,float)";

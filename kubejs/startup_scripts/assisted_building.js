@@ -1,5 +1,5 @@
-const { $InteractionHand } = require("@package/net/minecraft/world");
-const { $BlockPlaceContext } = require("@package/net/minecraft/world/item/context");
+let $InteractionHand = Java.loadClass("net.minecraft.world.InteractionHand");
+let $BlockPlaceContext = Java.loadClass("net.minecraft.world.item.context.BlockPlaceContext");
 
 const $SlabType = Java.loadClass("net.minecraft.world.level.block.state.properties.SlabType");
 
