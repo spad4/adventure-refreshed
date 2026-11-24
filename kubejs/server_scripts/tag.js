@@ -215,6 +215,11 @@ ServerEvents.tags("item", event => {
     event.add("supplementaries:flower_box_plantable", [
         "minersdelight:gossypium"
     ])
+    event.add("supplementaries:jar_cookies", [
+        "spawn:date_cookie",
+        "bountifulfares:walnut_cookie",
+        "bountifulfares:artisan_cookie",
+    ])
     event.remove("zipline:attachment", "#minecraft:hoes");
 });
 
@@ -453,6 +458,7 @@ ServerEvents.tags("block", event => {
         "supplementaries:turn_table",
         "supplementaries:spring_launcher",
         "supplementaries:cannon",
+        "supplementaries:crystal_display",
         "supplementaries:bellows",
         "creaturefeature:eep",
     ]);
@@ -488,6 +494,9 @@ ServerEvents.tags("block", event => {
         "amendments:hanging_flower_pot",
         "brewinandchewin:coaster",
         "#handcrafted:pots",
+        "bountifulfares:artisan_cookies",
+        "bountifulfares:artisan_bread",
+        "supplementaries:pancake",
     ])
     event.add("offgrid:can_blocklog", [
         "#bountifulfares:trellises",

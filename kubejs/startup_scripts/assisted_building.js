@@ -12,6 +12,7 @@ const COPYABLE_PROPERTIES = [
     BlockProperties.HALF,
     BlockProperties.SLAB_TYPE,
     BlockProperties.STAIRS_SHAPE,
+    BlockProperties.ATTACH_FACE,
     // BlockProperties.UP,
     // BlockProperties.DOWN,
     // BlockProperties.NORTH,

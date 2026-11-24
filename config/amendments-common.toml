@@ -80,7 +80,7 @@
 	#Allows you to place carpets on stairs
 	carpeted_stairs = true
 	#Allows you to place carpets on slabs
-	carpeted_slabs = true
+	carpeted_slabs = false
 
 [cake]
 	#Allows you to place a cake on top of another
@@ -145,7 +145,7 @@
 
 [torch]
 	#Allows torches to set entities on fire
-	torch_fire = true
+	torch_fire = false
 	#Allows torches to set entities on fire when held in offhand given you are attacking with a sword
 	torch_fire_offhand = false
 	#Duration of the on fire effect applied by torches. In seconds

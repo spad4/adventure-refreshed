@@ -17,6 +17,7 @@ const PLACEABLE_OVERRIDES = [
     "minecraft:painting",
     "minecraft:armor_stand",
     "supplementaries:hat_stand",
+    "supplementaries:pancake",
     "labels:label",
     "minecraft:item_frame",
     "minecraft:glow_item_frame",
@@ -36,6 +37,7 @@ const PLACEABLE_OVERRIDES = [
     "spawn:baby_sea_cow_bucket",
     "spawn:baby_flukeshroom_bucket",
     "spawn:baby_seal_bucket",
+    "supplementaries:lumisene_bucket",
 ];
 
 const tooltips = [];
@@ -118,7 +120,7 @@ tooltips.push({
 tooltips.push({
     condition: (item) => item.hasTag("supplementaries:flower_box_plantable"),
     icon: "\uE016",
-    expanded: "place in pot",
+    expanded: "plant in pot",
 });
 tooltips.push({
     condition: (item) => item.hasTag("spawn:catches_octopus"),
