@@ -69,33 +69,33 @@
     "brewinandchewin:food_offset": {
       "displacement": {
         "x": 0,
-        "y": 0
+        "y": 2
       },
       "direction": {
         "x": "NONE",
-        "y": "NONE"
+        "y": "UP"
       },
       "sync": "brewinandchewin:food_offset"
     },
     "brewinandchewin:intoxication": {
       "displacement": {
         "x": 0,
-        "y": 0
+        "y": 2
       },
       "direction": {
         "x": "NONE",
-        "y": "NONE"
+        "y": "UP"
       },
       "sync": "brewinandchewin:intoxication"
     },
     "brewinandchewin:tipsy": {
       "displacement": {
         "x": 0,
-        "y": 0
+        "y": 2
       },
       "direction": {
         "x": "NONE",
-        "y": "NONE"
+        "y": "UP"
       },
       "sync": "brewinandchewin:tipsy"
     },
@@ -420,6 +420,6 @@
     }
   },
   "resource": {
-    "texture": "NONE"
+    "texture": "PATCH"
   }
 }

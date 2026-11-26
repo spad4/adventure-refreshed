@@ -1,0 +1,33 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "advref:chests/village/savanna_junk"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "advref:chests/village/savanna_belongings"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:loot_table",
+                    "value": "advref:chests/village/temple"
+                }
+            ]
+        }
+    ],
+    "functions": [],
+    "random_sequence": "advref:chests/village/savanna_temple"
+}

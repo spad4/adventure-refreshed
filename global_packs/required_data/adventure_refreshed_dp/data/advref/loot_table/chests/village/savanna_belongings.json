@@ -1,0 +1,44 @@
+{
+    "type": "minecraft:chest",
+    "pools": [
+        {
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:wood_plate"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:wood_cup"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "handcrafted:wood_bowl"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:flower_pot"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "bountifulfares:jar"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "bountifulfares:ceramic_dish"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "delightful_fares:honeysuckle_tea_bag"
+                }
+            ],
+            "rolls": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 2.0
+            }
+        }
+    ],
+    "random_sequence": "minecraft:chests/village/savanna_belongings"
+}

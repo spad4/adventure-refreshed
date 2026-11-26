@@ -60,7 +60,7 @@ global.assistedBuildingNextBlock = (player, itemBlock) => {
     if (stairOffset) target = target.offset(stairOffset);
     while (!target.hasTag("minecraft:replaceable") || target.id == itemBlock.id) {
         if (player.distanceToBlock(target.pos) > player.reachDistance + 4) {
-            return [block.offset(facing), null, facing, rayTrace.hit];
+            return [null, null, null, null];
         }
         previous = target;
         target = target.offset(offset);

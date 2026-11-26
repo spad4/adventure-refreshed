@@ -828,6 +828,19 @@
     "everycomp:q/nomansland/hollow_pine_log",
     "everycomp:q/nomansland/hollow_walnut_log",
     "everycomp:q/spawn/hollow_rotten_log",
-    "everycomp:q/bountifulfares/hollow_hoary_log"
+    "everycomp:q/bountifulfares/hollow_hoary_log",
+    "everycomp:hc/dungeonsdelight/wormwood_nightstand",
+    "everycomp:hc/quark/blossom_nightstand",
+    "everycomp:hc/nomansland/maple_nightstand",
+    "everycomp:hc/nomansland/pine_nightstand",
+    "everycomp:hc/spawn/rotten_nightstand",
+    "everycomp:hc/spawn/date_nightstand",
+    "everycomp:hc/nomansland/willow_nightstand",
+    "everycomp:hc/quark/ancient_nightstand",
+    "everycomp:hc/bountifulfares/hoary_nightstand",
+    "everycomp:q/bountifulfares/hollow_walnut_log",
+    "everycomp:q/nomansland/hollow_maple_log",
+    "everycomp:q/nomansland/hollow_willow_log",
+    "everycomp:q/spawn/hollow_date_log"
   ]
 }

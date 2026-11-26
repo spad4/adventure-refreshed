@@ -37,7 +37,10 @@ BlockEvents.rightClicked((event) => {
     }
 
     const [target, previous, face, hit] = global.assistedBuildingNextBlock(entity, itemBlock);
-    if (!previous) return;
+    if (!previous) {
+        event.cancel();
+        return;
+    };
 
     const finalState = global.assistedBuildingCollectProperties(
         itemBlock,

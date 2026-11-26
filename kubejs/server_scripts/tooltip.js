@@ -38,6 +38,8 @@ const PLACEABLE_OVERRIDES = [
     "spawn:baby_flukeshroom_bucket",
     "spawn:baby_seal_bucket",
     "supplementaries:lumisene_bucket",
+    "bountifulfares:ceramic_dish",
+    "dungeonsdelight:wardenzolas",
 ];
 
 const tooltips = [];
