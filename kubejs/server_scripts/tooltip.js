@@ -2,6 +2,7 @@ const $ShapeMap = Java.loadClass("dev.tazer.clutternomore.shape.ShapeMap");
 
 // CLIENT SCRIPT
 const ITEM_REGISTRY = Registry.of("item");
+const BLOCK_REGISTRY = Registry.of("block");
 
 const PLACEABLE_DENYLIST = [
     "minecraft:sweet_berries",
@@ -41,6 +42,33 @@ const PLACEABLE_OVERRIDES = [
     "bountifulfares:ceramic_dish",
     "dungeonsdelight:wardenzolas",
 ];
+
+const QUARK_POTTABLE = [
+    "minecraft:beetroot_seeds",
+    "minecraft:sweet_berries",
+    "bountifulfares:sweet_berry_pips",
+    "minecraft:carrot",
+    "minecraft:glow_berries",
+    "minecraft:chorus_flower",
+    "minecraft:cocoa_beans",
+    "minecraft:large_fern",
+    "minecraft:lilac",
+    "minecraft:melon_seeds",
+    "minecraft:nether_sprouts",
+    "minecraft:nether_wart",
+    "minecraft:peony",
+    "minecraft:pitcher_plant",
+    "minecraft:potato",
+    "minecraft:pumpkin_seeds",
+    "minecraft:sea_pickle",
+    "minecraft:short_grass",
+    "minecraft:sugar_cane",
+    "minecraft:tall_grass",
+    "minecraft:twisting_vines",
+    "minecraft:vine",
+    "minecraft:weeping_vines",
+    "minecraft:wheat_seeds",
+]
 
 const tooltips = [];
 tooltips.push({
@@ -120,7 +148,13 @@ tooltips.push({
     expanded: "wax",
 });
 tooltips.push({
-    condition: (item) => item.hasTag("supplementaries:flower_box_plantable"),
+    condition: (item) => {
+        if (!item.block) return;
+        if (QUARK_POTTABLE.includes(item.id)) return true;
+        let split = item.block.id.split(":");
+        let potted = split[0] + ":potted_" + split[1];
+        return BLOCK_REGISTRY.contains(potted);
+    },
     icon: "\uE016",
     expanded: "plant in pot",
 });
@@ -131,14 +165,10 @@ tooltips.push({
 });
 
 ItemEvents.modifyTooltips((event) => {
-    // TODO: is it possible to apply the tag filter in .getValues() instead? idk how filters work..
     ITEM_REGISTRY.getValues().forEach((item) => {
-        event.modify(item, (tooltip) => {
-            tooltip.removeText("Placeable");
-            tooltip.removeText("Dyeable");
-        });
 
         if ($ShapeMap["isShape(net.minecraft.world.item.Item)"](item)) return;
+        if (SHAPE_GROUPS.some(shape => item.id.includes(shape))) return;
 
         const icons = [];
         const expanded = [];

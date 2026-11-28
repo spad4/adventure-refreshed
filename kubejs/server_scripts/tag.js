@@ -504,6 +504,9 @@ ServerEvents.tags("block", event => {
         "#bountifulfares:trellises",
         "#another_furniture:shutters",
     ])
+    event.add("offgrid:blockloggable", [
+        "#handcrafted:trims",
+    ])
     event.add("offgrid:facing_attaching", [
         "amendments:wall_lantern",
     ])

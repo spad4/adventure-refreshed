@@ -65,49 +65,37 @@ const SHAPE_GROUPS = [
     "slab",
     "wall",
 
-    "log",
     "wood",
 
-    "door",
     "trapdoor",
     "shutter",
 
     "fence_gate",
-    "fence",
     "pickets",
     "trellis",
 
     "hanging_sign",
     "way_sign",
-    "sign",
 
-    "pressure_plate",
     "button",
 
     "tall_stool",
-    "stool",
 
     "chair",
     "bench",
 
-    "trimmed",
-    "chiseled",
     "corner_trim",
     "pillar_trim",
 
-    "bars",
     "gate",
     "railing",
 
     "carpet",
 
-    "banner",
     "flag",
 
-    "drawer",
     "cabinet",
 
-    "plate",
     "bowl",
     "cup",
     "crockery_combo",

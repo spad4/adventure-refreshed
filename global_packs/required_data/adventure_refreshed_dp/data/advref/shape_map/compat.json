@@ -137,7 +137,7 @@
             "farmersdelight:full_tatami_mat",
             "farmersdelight:half_tatami_mat"
         ],
-        "/another_furniture:(?<wood>.+)_drawer/": [
+        "/another_furniture:(?<wood>^(?!walnut).+)_drawer/": [
             "farmersdelight:${wood}_cabinet"
         ],
         "minecraft:iron_bars": [

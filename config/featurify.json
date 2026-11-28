@@ -1,16 +1,24 @@
 {
   "config_version": "2.0.17",
-  "config_datetime": "2026-11-22_17-10-06",
+  "config_datetime": "2026-11-28_00-30-13",
   "global": {
     "disable_all_placed_features": false
   },
   "placed_features": [
+    {
+      "name": "minecraft:brown_mushroom_normal",
+      "is_disabled": true
+    },
     {
       "name": "minecraft:ore_diamond",
       "is_disabled": true
     },
     {
       "name": "minecraft:ore_diamond_buried",
+      "is_disabled": true
+    },
+    {
+      "name": "minecraft:red_mushroom_normal",
       "is_disabled": true
     },
     {
